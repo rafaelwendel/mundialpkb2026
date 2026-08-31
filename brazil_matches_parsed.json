@@ -704,8 +704,8 @@
     "round": "Round of 64",
     "discipline": "",
     "entryA": "{\"teamName\": \"João Pedro Agulha Fernandes / Kevin Dayan\"}",
-    "entryB": "{\"teamName\": \"Time B\"}",
-    "raw": "{\"id\": \"pro_doubles_mens____pro_doubles_mens__m95\", \"date\": \"2026-09-01\", \"time_local\": \"09:10\", \"time_brt\": \"23:10\", \"datetime_local\": \"01/09/2026 09:10\", \"datetime_brt\": \"31/08/2026 23:10\", \"category\": \"PRO - Duplas Masculinas\", \"raw_category\": \"pro_doubles_mens\", \"round\": \"Round of 64\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes / Kevin Dayan\", \"teamB\": \"Time B\", \"court\": \"Quadra 7 · Court 5\", \"venue\": \"TIEN SON CENTER\"}"
+    "entryB": "{\"teamName\": \"Vadim Maltsev / Maxim Maltsev\"}",
+    "raw": "{\"id\": \"pro_doubles_mens____pro_doubles_mens__m95\", \"date\": \"2026-09-01\", \"time_local\": \"09:10\", \"time_brt\": \"23:10\", \"datetime_local\": \"01/09/2026 09:10\", \"datetime_brt\": \"31/08/2026 23:10\", \"category\": \"PRO - Duplas Masculinas\", \"raw_category\": \"pro_doubles_mens\", \"round\": \"Round of 64\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes / Kevin Dayan\", \"teamB\": \"Vadim Maltsev / Maxim Maltsev\", \"court\": \"Quadra 7 · Court 5\", \"venue\": \"TIEN SON CENTER\"}"
   },
   {
     "id": "pro_singles_mens____pro_singles_mens__m95",
@@ -2074,5 +2074,41 @@
     "entryA": "{\"teamName\": \"Sanchi Khillare\"}",
     "entryB": "{\"teamName\": \"Rain Isabella Astano\"}",
     "raw": "{\"id\": \"junior_singles_girls____junior_singles_girls_14_under__m23\", \"date\": \"2026-09-05\", \"time_local\": \"16:35\", \"time_brt\": \"06:35\", \"datetime_local\": \"05/09/2026 16:35\", \"datetime_brt\": \"05/09/2026 06:35\", \"category\": \"Sub-14 - Simples Feminino Junior\", \"raw_category\": \"junior_singles_girls\", \"round\": \"Round 3\", \"discipline\": \"\", \"teamA\": \"Sanchi Khillare\", \"teamB\": \"Rain Isabella Astano\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
+  },
+  {
+    "id": "pro_doubles_mens____pro_doubles_mens__m73",
+    "scheduledAt": "2026-09-01T08:25:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "pro_doubles_mens",
+    "round": "Round of 64",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"Tristan Stayt / Conor Robertshawe\"}",
+    "entryB": "{\"teamName\": \"Hugo Cesar Dojas / Caio Eduardo Garcia Silva\"}",
+    "raw": "{\"id\": \"pro_doubles_mens____pro_doubles_mens__m73\", \"date\": \"2026-09-01\", \"time_local\": \"08:25\", \"time_brt\": \"22:25\", \"datetime_local\": \"01/09/2026 08:25\", \"datetime_brt\": \"31/08/2026 22:25\", \"category\": \"PRO - Duplas Masculinas\", \"raw_category\": \"pro_doubles_mens\", \"round\": \"Round of 64\", \"discipline\": \"\", \"teamA\": \"Tristan Stayt / Conor Robertshawe\", \"teamB\": \"Hugo Cesar Dojas / Caio Eduardo Garcia Silva\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
+  },
+  {
+    "id": "pro_doubles_mens____pro_doubles_mens__m19",
+    "scheduledAt": "2026-09-01T08:00:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "pro_doubles_mens",
+    "round": "Qualifying",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"Hugo Cesar Dojas / Caio Eduardo Garcia Silva\"}",
+    "entryB": "{\"teamName\": \"A definir / Bye\"}",
+    "raw": "{\"id\": \"pro_doubles_mens____pro_doubles_mens__m19\", \"date\": \"2026-09-01\", \"time_local\": \"08:00\", \"time_brt\": \"22:00\", \"datetime_local\": \"01/09/2026 08:00\", \"datetime_brt\": \"31/08/2026 22:00\", \"category\": \"PRO - Duplas Masculinas\", \"raw_category\": \"pro_doubles_mens\", \"round\": \"Qualifying\", \"discipline\": \"\", \"teamA\": \"Hugo Cesar Dojas / Caio Eduardo Garcia Silva\", \"teamB\": \"A definir / Bye\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
+  },
+  {
+    "id": "pro_doubles_mens____pro_doubles_mens__m62",
+    "scheduledAt": "2026-09-01T08:00:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "pro_doubles_mens",
+    "round": "Qualifying",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"João Pedro Agulha Fernandes / Kevin Dayan\"}",
+    "entryB": "{\"teamName\": \"A definir / Bye\"}",
+    "raw": "{\"id\": \"pro_doubles_mens____pro_doubles_mens__m62\", \"date\": \"2026-09-01\", \"time_local\": \"08:00\", \"time_brt\": \"22:00\", \"datetime_local\": \"01/09/2026 08:00\", \"datetime_brt\": \"31/08/2026 22:00\", \"category\": \"PRO - Duplas Masculinas\", \"raw_category\": \"pro_doubles_mens\", \"round\": \"Qualifying\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes / Kevin Dayan\", \"teamB\": \"A definir / Bye\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
   }
 ]
