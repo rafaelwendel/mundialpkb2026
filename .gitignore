@@ -3,6 +3,7 @@ generate_*.py
 parse_*.py
 fetch_all.py
 batch_*.py
+search_*.py
 junior_htmls/
 latest_*.html
 womens_singles.html

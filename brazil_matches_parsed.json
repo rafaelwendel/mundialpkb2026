@@ -2110,5 +2110,41 @@
     "entryA": "{\"teamName\": \"João Pedro Agulha Fernandes / Kevin Dayan\"}",
     "entryB": "{\"teamName\": \"A definir / Bye\"}",
     "raw": "{\"id\": \"pro_doubles_mens____pro_doubles_mens__m62\", \"date\": \"2026-09-01\", \"time_local\": \"08:00\", \"time_brt\": \"22:00\", \"datetime_local\": \"01/09/2026 08:00\", \"datetime_brt\": \"31/08/2026 22:00\", \"category\": \"PRO - Duplas Masculinas\", \"raw_category\": \"pro_doubles_mens\", \"round\": \"Qualifying\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes / Kevin Dayan\", \"teamB\": \"A definir / Bye\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
+  },
+  {
+    "id": "pro_doubles_mens____pro_doubles_mens__m49",
+    "scheduledAt": "2026-09-01T08:00:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "pro_doubles_mens",
+    "round": "Qualifying",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"Jeremy Luke Soh / Dwi Putra Mahendra\"}",
+    "entryB": "{\"teamName\": \"Gabriel Silva / Ayke mayam soares Rodrigues\"}",
+    "raw": "{\"id\": \"pro_doubles_mens____pro_doubles_mens__m49\", \"date\": \"2026-09-01\", \"time_local\": \"08:00\", \"time_brt\": \"22:00\", \"datetime_local\": \"01/09/2026 08:00\", \"datetime_brt\": \"31/08/2026 22:00\", \"category\": \"PRO - Duplas Masculinas\", \"raw_category\": \"pro_doubles_mens\", \"round\": \"Qualifying\", \"discipline\": \"\", \"teamA\": \"Jeremy Luke Soh / Dwi Putra Mahendra\", \"teamB\": \"Gabriel Silva / Ayke mayam soares Rodrigues\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
+  },
+  {
+    "id": "pro_doubles_mens____pro_doubles_mens__m79",
+    "scheduledAt": "2026-09-01T08:25:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "pro_doubles_mens",
+    "round": "Round of 64",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"Armando Ferreira / Kym Sze\"}",
+    "entryB": "{\"teamName\": \"Ryanlam0721 / Chun Wai Lee\"}",
+    "raw": "{\"id\": \"pro_doubles_mens____pro_doubles_mens__m79\", \"date\": \"2026-09-01\", \"time_local\": \"08:25\", \"time_brt\": \"22:25\", \"datetime_local\": \"01/09/2026 08:25\", \"datetime_brt\": \"31/08/2026 22:25\", \"category\": \"PRO - Duplas Masculinas\", \"raw_category\": \"pro_doubles_mens\", \"round\": \"Round of 64\", \"discipline\": \"\", \"teamA\": \"Armando Ferreira / Kym Sze\", \"teamB\": \"Ryanlam0721 / Chun Wai Lee\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
+  },
+  {
+    "id": "pro_doubles_mens____pro_doubles_mens__m30",
+    "scheduledAt": "2026-09-01T08:00:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "pro_doubles_mens",
+    "round": "Qualifying",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"Armando Ferreira / Kym Sze\"}",
+    "entryB": "{\"teamName\": \"A definir / Bye\"}",
+    "raw": "{\"id\": \"pro_doubles_mens____pro_doubles_mens__m30\", \"date\": \"2026-09-01\", \"time_local\": \"08:00\", \"time_brt\": \"22:00\", \"datetime_local\": \"01/09/2026 08:00\", \"datetime_brt\": \"31/08/2026 22:00\", \"category\": \"PRO - Duplas Masculinas\", \"raw_category\": \"pro_doubles_mens\", \"round\": \"Qualifying\", \"discipline\": \"\", \"teamA\": \"Armando Ferreira / Kym Sze\", \"teamB\": \"A definir / Bye\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
   }
 ]
