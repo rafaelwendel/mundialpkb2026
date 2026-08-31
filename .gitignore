@@ -5,6 +5,7 @@ fetch_all.py
 latest_*.html
 womens_singles.html
 womens_doubles.html
+junior_mens_doubles.html
 verify_*.py
 add_*.py
 check_*.py

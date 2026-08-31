@@ -56,8 +56,8 @@
     "round": "Round 3",
     "discipline": "",
     "entryA": "{\"teamName\": \"João Pedro Agulha Fernandes / João Pedro Jakobovitsch Costa\"}",
-    "entryB": "{\"teamName\": \"Time B\"}",
-    "raw": "{\"id\": \"junior_doubles_boys____junior_doubles_boys_18_under__m23\", \"date\": \"2026-09-06\", \"time_local\": \"10:05\", \"time_brt\": \"00:05\", \"datetime_local\": \"06/09/2026 10:05\", \"datetime_brt\": \"06/09/2026 00:05\", \"category\": \"Sub-16/18 - Duplas Masculinas Junior\", \"raw_category\": \"junior_doubles_boys\", \"round\": \"Round 3\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes / João Pedro Jakobovitsch Costa\", \"teamB\": \"Time B\", \"court\": \"Quadra 10 · Court 10\", \"venue\": \"TRANG HOANG\"}"
+    "entryB": "{\"teamName\": \"Trần Hải / TRẦN ĐỨC MINH\"}",
+    "raw": "{\"id\": \"junior_doubles_boys____junior_doubles_boys_18_under__m23\", \"date\": \"2026-09-06\", \"time_local\": \"10:05\", \"time_brt\": \"00:05\", \"datetime_local\": \"06/09/2026 10:05\", \"datetime_brt\": \"06/09/2026 00:05\", \"category\": \"Sub-16/18 - Duplas Masculinas Junior\", \"raw_category\": \"junior_doubles_boys\", \"round\": \"Round 3\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes / João Pedro Jakobovitsch Costa\", \"teamB\": \"Trần Hải / TRẦN ĐỨC MINH\", \"court\": \"Quadra 10 · Court 10\", \"venue\": \"TRANG HOANG\"}"
   },
   {
     "id": "junior_doubles_girls____junior_doubles_girls_16_under__m11",
@@ -1330,5 +1330,65 @@
     "entryA": "{\"teamName\": \"Eviekenna / Ellie Tomkinson\"}",
     "entryB": "{\"teamName\": \"PATRICIA BOSON / Deborahgebara\"}",
     "raw": "{\"id\": \"pro_doubles_womens____pro_doubles_womens__m7\", \"date\": \"2026-09-01\", \"time_local\": \"08:25\", \"time_brt\": \"22:25\", \"datetime_local\": \"01/09/2026 08:25\", \"datetime_brt\": \"31/08/2026 22:25\", \"category\": \"PRO - Duplas Femininas\", \"raw_category\": \"pro_doubles_womens\", \"round\": \"Qualifying\", \"discipline\": \"\", \"teamA\": \"Eviekenna / Ellie Tomkinson\", \"teamB\": \"PATRICIA BOSON / Deborahgebara\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
+  },
+  {
+    "id": "junior_doubles_boys____junior_doubles_boys_18_under__m18",
+    "scheduledAt": "2026-09-06T09:15:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "junior_doubles_boys",
+    "round": "Round 1",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"Hudson Hall / Ryder Brown\"}",
+    "entryB": "{\"teamName\": \"João Pedro Agulha Fernandes / João Pedro Jakobovitsch Costa\"}",
+    "raw": "{\"id\": \"junior_doubles_boys____junior_doubles_boys_18_under__m18\", \"date\": \"2026-09-06\", \"time_local\": \"09:15\", \"time_brt\": \"23:15\", \"datetime_local\": \"06/09/2026 09:15\", \"datetime_brt\": \"05/09/2026 23:15\", \"category\": \"Sub-16/18 - Duplas Masculinas Junior\", \"raw_category\": \"junior_doubles_boys\", \"round\": \"Round 1\", \"discipline\": \"\", \"teamA\": \"Hudson Hall / Ryder Brown\", \"teamB\": \"João Pedro Agulha Fernandes / João Pedro Jakobovitsch Costa\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
+  },
+  {
+    "id": "junior_doubles_boys____junior_doubles_boys_18_under__m21",
+    "scheduledAt": "2026-09-06T09:40:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "junior_doubles_boys",
+    "round": "Round 2",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"Nguyễn Trần Minh Đức / Ngo Hoang Phat\"}",
+    "entryB": "{\"teamName\": \"João Pedro Agulha Fernandes / João Pedro Jakobovitsch Costa\"}",
+    "raw": "{\"id\": \"junior_doubles_boys____junior_doubles_boys_18_under__m21\", \"date\": \"2026-09-06\", \"time_local\": \"09:40\", \"time_brt\": \"23:40\", \"datetime_local\": \"06/09/2026 09:40\", \"datetime_brt\": \"05/09/2026 23:40\", \"category\": \"Sub-16/18 - Duplas Masculinas Junior\", \"raw_category\": \"junior_doubles_boys\", \"round\": \"Round 2\", \"discipline\": \"\", \"teamA\": \"Nguyễn Trần Minh Đức / Ngo Hoang Phat\", \"teamB\": \"João Pedro Agulha Fernandes / João Pedro Jakobovitsch Costa\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
+  },
+  {
+    "id": "junior_doubles_boys____junior_doubles_boys_18_under__m7",
+    "scheduledAt": "2026-09-06T11:20:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "junior_doubles_boys",
+    "round": "Round 1",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"Maciel Batista da Silva / Sunny Kaimana Kelbert Ribas\"}",
+    "entryB": "{\"teamName\": \"Yu Joseph / John Riley Austin\"}",
+    "raw": "{\"id\": \"junior_doubles_boys____junior_doubles_boys_18_under__m7\", \"date\": \"2026-09-06\", \"time_local\": \"11:20\", \"time_brt\": \"01:20\", \"datetime_local\": \"06/09/2026 11:20\", \"datetime_brt\": \"06/09/2026 01:20\", \"category\": \"Sub-16/18 - Duplas Masculinas Junior\", \"raw_category\": \"junior_doubles_boys\", \"round\": \"Round 1\", \"discipline\": \"\", \"teamA\": \"Maciel Batista da Silva / Sunny Kaimana Kelbert Ribas\", \"teamB\": \"Yu Joseph / John Riley Austin\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
+  },
+  {
+    "id": "junior_doubles_boys____junior_doubles_boys_18_under__m8",
+    "scheduledAt": "2026-09-06T09:40:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "junior_doubles_boys",
+    "round": "Round 2",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"Lê Xuân Đức / Hoài Anh\"}",
+    "entryB": "{\"teamName\": \"Maciel Batista da Silva / Sunny Kaimana Kelbert Ribas\"}",
+    "raw": "{\"id\": \"junior_doubles_boys____junior_doubles_boys_18_under__m8\", \"date\": \"2026-09-06\", \"time_local\": \"09:40\", \"time_brt\": \"23:40\", \"datetime_local\": \"06/09/2026 09:40\", \"datetime_brt\": \"05/09/2026 23:40\", \"category\": \"Sub-16/18 - Duplas Masculinas Junior\", \"raw_category\": \"junior_doubles_boys\", \"round\": \"Round 2\", \"discipline\": \"\", \"teamA\": \"Lê Xuân Đức / Hoài Anh\", \"teamB\": \"Maciel Batista da Silva / Sunny Kaimana Kelbert Ribas\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
+  },
+  {
+    "id": "junior_doubles_boys____junior_doubles_boys_18_under__m11",
+    "scheduledAt": "2026-09-06T10:05:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "junior_doubles_boys",
+    "round": "Round 3",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"Jude Beale / Lucgalegrani\"}",
+    "entryB": "{\"teamName\": \"Maciel Batista da Silva / Sunny Kaimana Kelbert Ribas\"}",
+    "raw": "{\"id\": \"junior_doubles_boys____junior_doubles_boys_18_under__m11\", \"date\": \"2026-09-06\", \"time_local\": \"10:05\", \"time_brt\": \"00:05\", \"datetime_local\": \"06/09/2026 10:05\", \"datetime_brt\": \"06/09/2026 00:05\", \"category\": \"Sub-16/18 - Duplas Masculinas Junior\", \"raw_category\": \"junior_doubles_boys\", \"round\": \"Round 3\", \"discipline\": \"\", \"teamA\": \"Jude Beale / Lucgalegrani\", \"teamB\": \"Maciel Batista da Silva / Sunny Kaimana Kelbert Ribas\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
   }
 ]
