@@ -1,0 +1,4324 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pickleball World Cup 2026 - Agenda da Delegação Brasileira 🇧🇷</title>
+    <meta name="description" content="Tabela oficial de jogos e programação da delegação brasileira no Pickleball World Cup 2026 em Da Nang, Vietnã. Horário de Brasília (BRT) e Horário Local.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-main: #0b0f19;
+            --bg-card: #131b2e;
+            --bg-card-hover: #1b2640;
+            --border-color: rgba(255, 255, 255, 0.08);
+            --border-color-highlight: rgba(16, 185, 129, 0.3);
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+            --accent-green: #10b981;
+            --accent-gold: #f59e0b;
+            --accent-blue: #3b82f6;
+            --accent-purple: #8b5cf6;
+            --accent-pink: #ec4899;
+            --accent-cyan: #06b6d4;
+            --radius-sm: 8px;
+            --radius-md: 12px;
+            --radius-lg: 16px;
+            --shadow-glow: 0 0 25px rgba(16, 185, 129, 0.15);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--bg-main);
+            color: var(--text-primary);
+            line-height: 1.5;
+            min-height: 100vh;
+            padding-bottom: 60px;
+        }
+
+        /* Header / Banner */
+        .hero {
+            background: linear-gradient(135deg, rgba(16, 185, 129, 0.12) 0%, rgba(11, 15, 25, 0.95) 50%, rgba(59, 130, 246, 0.12) 100%),
+                        radial-gradient(circle at top right, rgba(245, 158, 11, 0.15), transparent 40%);
+            border-bottom: 1px solid var(--border-color);
+            padding: 40px 24px 32px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, #10b981, #f59e0b, #3b82f6);
+        }
+
+        .container {
+            max-width: 1380px;
+            margin: 0 auto;
+            padding: 0 16px;
+        }
+
+        .hero-title-group {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-bottom: 24px;
+        }
+
+        .hero-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.2rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #ffffff 30%, #a7f3d0 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            letter-spacing: -0.02em;
+        }
+
+        .flag-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(16, 185, 129, 0.15);
+            border: 1px solid rgba(16, 185, 129, 0.4);
+            color: #34d399;
+            font-size: 0.9rem;
+            font-weight: 600;
+            padding: 4px 12px;
+            border-radius: 20px;
+        }
+
+        .hero-subtitle {
+            color: var(--text-secondary);
+            font-size: 1.05rem;
+            max-width: 780px;
+        }
+
+        /* Metric Cards */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 16px;
+            margin-top: 24px;
+        }
+
+        .stat-card {
+            background: rgba(19, 27, 46, 0.7);
+            backdrop-filter: blur(12px);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-md);
+            padding: 16px 20px;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            transition: all 0.25s ease;
+        }
+
+        .stat-card:hover {
+            border-color: var(--border-color-highlight);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-glow);
+        }
+
+        .stat-icon {
+            width: 44px;
+            height: 44px;
+            border-radius: var(--radius-sm);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            font-size: 1.3rem;
+        }
+
+        .stat-icon.green { background: rgba(16, 185, 129, 0.15); color: #34d399; }
+        .stat-icon.gold { background: rgba(245, 158, 11, 0.15); color: #fbbf24; }
+        .stat-icon.blue { background: rgba(59, 130, 246, 0.15); color: #60a5fa; }
+        .stat-icon.purple { background: rgba(139, 92, 246, 0.15); color: #c084fc; }
+
+        .stat-val {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            line-height: 1.2;
+        }
+
+        .stat-lbl {
+            font-size: 0.825rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-weight: 600;
+        }
+
+        /* Controls Section */
+        .controls-wrapper {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-lg);
+            padding: 20px;
+            margin: 28px 0;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .search-bar-row {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .search-input-wrap {
+            position: relative;
+            flex: 1;
+            min-width: 280px;
+        }
+
+        .search-input-wrap span {
+            position: absolute;
+            left: 14px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            font-size: 1.1rem;
+        }
+
+        .search-input {
+            width: 100%;
+            background: rgba(11, 15, 25, 0.7);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-md);
+            padding: 12px 16px 12px 42px;
+            color: var(--text-primary);
+            font-size: 0.95rem;
+            outline: none;
+            transition: all 0.2s ease;
+        }
+
+        .search-input:focus {
+            border-color: var(--accent-green);
+            box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.2);
+        }
+
+        .tz-selector {
+            display: flex;
+            background: rgba(11, 15, 25, 0.7);
+            padding: 4px;
+            border-radius: var(--radius-md);
+            border: 1px solid var(--border-color);
+        }
+
+        .tz-btn {
+            background: transparent;
+            border: none;
+            color: var(--text-secondary);
+            padding: 8px 14px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            border-radius: var(--radius-sm);
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .tz-btn.active {
+            background: var(--accent-green);
+            color: #042f2e;
+        }
+
+        .filter-row {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .select-filter {
+            background: rgba(11, 15, 25, 0.7);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 10px 14px;
+            border-radius: var(--radius-md);
+            font-size: 0.9rem;
+            outline: none;
+            cursor: pointer;
+            min-width: 160px;
+        }
+
+        .select-filter:focus {
+            border-color: var(--accent-green);
+        }
+
+        .date-pills {
+            display: flex;
+            gap: 8px;
+            overflow-x: auto;
+            padding-bottom: 4px;
+            scroll-behavior: smooth;
+        }
+
+        .date-pill {
+            background: rgba(11, 15, 25, 0.7);
+            border: 1px solid var(--border-color);
+            color: var(--text-secondary);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            white-space: nowrap;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .date-pill:hover {
+            border-color: rgba(255, 255, 255, 0.2);
+            color: var(--text-primary);
+        }
+
+        .date-pill.active {
+            background: rgba(16, 185, 129, 0.2);
+            border-color: var(--accent-green);
+            color: #34d399;
+        }
+
+        .btn-action {
+            background: rgba(11, 15, 25, 0.7);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 10px 16px;
+            border-radius: var(--radius-md);
+            font-size: 0.875rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s ease;
+        }
+
+        .btn-action:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--accent-green);
+        }
+
+        /* Table Container */
+        .table-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            box-shadow: 0 12px 35px rgba(0, 0, 0, 0.4);
+        }
+
+        .table-responsive {
+            width: 100%;
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+            font-size: 0.925rem;
+        }
+
+        th {
+            background: rgba(11, 15, 25, 0.9);
+            color: var(--text-secondary);
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.775rem;
+            letter-spacing: 0.08em;
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--border-color);
+            user-select: none;
+            white-space: nowrap;
+        }
+
+        th.sortable {
+            cursor: pointer;
+        }
+
+        th.sortable:hover {
+            color: var(--accent-green);
+        }
+
+        td {
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--border-color);
+            vertical-align: middle;
+        }
+
+        tbody tr {
+            transition: background 0.15s ease;
+        }
+
+        tbody tr:hover {
+            background: var(--bg-card-hover);
+        }
+
+        /* Badges & Elements */
+        .idx-col {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            font-weight: 600;
+            width: 40px;
+        }
+
+        .time-box {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .time-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            font-weight: 700;
+            font-size: 0.95rem;
+            padding: 4px 10px;
+            border-radius: var(--radius-sm);
+        }
+
+        .time-badge.brt {
+            background: rgba(16, 185, 129, 0.15);
+            color: #34d399;
+            border: 1px solid rgba(16, 185, 129, 0.3);
+        }
+
+        .time-badge.local {
+            background: rgba(59, 130, 246, 0.12);
+            color: #60a5fa;
+            border: 1px solid rgba(59, 130, 246, 0.25);
+            font-size: 0.85rem;
+        }
+
+        .category-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.825rem;
+            font-weight: 600;
+            letter-spacing: 0.01em;
+            white-space: nowrap;
+        }
+
+        .cat-mundial { background: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.3); }
+        .cat-junior { background: rgba(59, 130, 246, 0.15); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); }
+        .cat-senior { background: rgba(139, 92, 246, 0.15); color: #c084fc; border: 1px solid rgba(139, 92, 246, 0.3); }
+        .cat-amador { background: rgba(6, 182, 212, 0.15); color: #22d3ee; border: 1px solid rgba(6, 182, 212, 0.3); }
+        .cat-pro { background: rgba(236, 72, 153, 0.15); color: #f472b6; border: 1px solid rgba(236, 72, 153, 0.3); }
+
+        .round-tag {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.06);
+            color: var(--text-secondary);
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.825rem;
+            font-weight: 600;
+        }
+
+        .matchup-box {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            min-width: 260px;
+        }
+
+        .team-name {
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .team-name.highlight {
+            color: #34d399;
+            font-weight: 700;
+        }
+
+        .vs-badge {
+            background: rgba(255, 255, 255, 0.08);
+            color: var(--text-muted);
+            font-size: 0.75rem;
+            font-weight: 700;
+            padding: 2px 6px;
+            border-radius: 4px;
+            text-transform: uppercase;
+        }
+
+        .venue-box {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .court-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            color: var(--text-primary);
+            font-weight: 600;
+            font-size: 0.875rem;
+        }
+
+        .venue-name {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+
+        /* Empty state & Footer */
+        .empty-state {
+            padding: 60px 20px;
+            text-align: center;
+            color: var(--text-secondary);
+        }
+
+        .empty-state .icon {
+            font-size: 3rem;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .footer-info {
+            margin-top: 32px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 16px;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        @media (max-width: 768px) {
+            .hero-title { font-size: 1.6rem; }
+            .controls-wrapper { padding: 14px; gap: 14px; }
+            th, td { padding: 12px 14px; }
+            .matchup-box { min-width: 200px; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="container">
+            <div class="hero-title-group">
+                <div>
+                    <h1 class="hero-title">
+                        Pickleball World Cup 2026
+                        <span class="flag-badge">🇧🇷 Delegação Brasil</span>
+                    </h1>
+                    <p class="hero-subtitle">Programação e tabela oficial dos jogos das duplas e atletas brasileiros em Da Nang, Vietnã.</p>
+                </div>
+            </div>
+
+            <!-- Stats Grid -->
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-icon green">🏆</div>
+                    <div>
+                        <div class="stat-val" id="stat-matches">106</div>
+                        <div class="stat-lbl">Partidas do Brasil</div>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon gold">📅</div>
+                    <div>
+                        <div class="stat-val">30/08 - 06/09</div>
+                        <div class="stat-lbl">Período do Torneio</div>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon blue">📊</div>
+                    <div>
+                        <div class="stat-val" id="stat-categories">14</div>
+                        <div class="stat-lbl">Modalidades</div>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon purple">📍</div>
+                    <div>
+                        <div class="stat-val" id="stat-venues">5</div>
+                        <div class="stat-lbl">Locais de Jogos</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container">
+        <!-- Controls & Filters -->
+        <div class="controls-wrapper">
+            <!-- Search & Timezone selector -->
+            <div class="search-bar-row">
+                <div class="search-input-wrap">
+                    <span>🔍</span>
+                    <input type="text" id="search-input" class="search-input" placeholder="Buscar por atleta, adversário, categoria, quadra ou local...">
+                </div>
+
+                <div class="tz-selector">
+                    <button class="tz-btn active" data-tz="brt" title="Horário de Brasília (UTC-3)">
+                        🇧🇷 BRT (Brasília)
+                    </button>
+                    <button class="tz-btn" data-tz="local" title="Horário Local do Vietnã (UTC+7)">
+                        🇻🇳 Local (Vietnã)
+                    </button>
+                    <button class="tz-btn" data-tz="both" title="Exibir ambos os horários">
+                        🌐 Ambos
+                    </button>
+                </div>
+            </div>
+
+            <!-- Date Pills -->
+            <div>
+                <div class="date-pills" id="date-pills-container">
+                    <button class="date-pill active" data-date="all">📅 Todas as Datas</button>
+<button class="date-pill" data-date="01/09/2026">📅 01/09</button>
+<button class="date-pill" data-date="02/09/2026">📅 02/09</button>
+<button class="date-pill" data-date="03/09/2026">📅 03/09</button>
+<button class="date-pill" data-date="04/09/2026">📅 04/09</button>
+<button class="date-pill" data-date="05/09/2026">📅 05/09</button>
+<button class="date-pill" data-date="06/09/2026">📅 06/09</button>
+<button class="date-pill" data-date="30/08/2026">📅 30/08</button>
+<button class="date-pill" data-date="31/08/2026">📅 31/08</button>
+
+                </div>
+            </div>
+
+            <!-- Dropdown Filters & Actions -->
+            <div class="filter-row">
+                <select id="filter-category" class="select-filter">
+                    <option value="all">Todas as Categorias</option>
+<option value="Amador - Duplas Masculinas">Amador - Duplas Masculinas</option>
+<option value="Amador - Duplas Mistas">Amador - Duplas Mistas</option>
+<option value="Cúp Thế Giới - Juniors Team (Sub-18)">Mundial - Juvenil (Sub-18)</option>
+<option value="Cúp Thế Giới - Kids Team (Sub-14)">Mundial - Infantil (Sub-14)</option>
+<option value="Cúp Thế Giới - Masters Team (+35)">Mundial - Master (+35)</option>
+<option value="Cúp Thế Giới - Open Team (Mundial)">Mundial - Equipe Open</option>
+<option value="Cúp Thế Giới - Seniors Team (+50)">Mundial - Senior (+50)</option>
+<option value="PRO - Duplas Masculinas">PRO - Duplas Masculinas</option>
+<option value="PRO - Simples Masculino">PRO - Simples Masculino</option>
+<option value="Sub-16/18 - Duplas Femininas Junior">Sub-16/18 - Duplas Femininas</option>
+<option value="Sub-16/18 - Duplas Masculinas Junior">Sub-16/18 - Duplas Masculinas</option>
+<option value="Sub-18 - Duplas Mistas Junior">Sub-18 - Duplas Mistas</option>
+<option value="Sub-18 - Simples Feminino Junior">Sub-18 - Simples Feminino</option>
+<option value="Sub-18 - Simples Masculino Junior">Sub-18 - Simples Masculino</option>
+
+                </select>
+
+                <select id="filter-venue" class="select-filter">
+                    <option value="all">Todos os Locais (Venues)</option>
+<option value="HOP THANH PHAT">HOP THANH PHAT</option>
+<option value="TIEN SON CENTER">TIEN SON CENTER</option>
+<option value="TRANG HOANG">TRANG HOANG</option>
+<option value="TRUONG SON">TRUONG SON</option>
+<option value="TUYEN SON">TUYEN SON</option>
+
+                </select>
+
+                <select id="filter-round" class="select-filter">
+                    <option value="all">Todas as Fases/Rodadas</option>
+<option value="Round 1">Round 1</option>
+<option value="Round 2">Round 2</option>
+<option value="Round 3">Round 3</option>
+<option value="Round 4">Round 4</option>
+<option value="Round 5">Round 5</option>
+<option value="Round 6">Round 6</option>
+<option value="Round 7">Round 7</option>
+<option value="Round of 64">Round of 64</option>
+
+                </select>
+
+                <button id="btn-reset" class="btn-action" style="margin-left: auto;">
+                    🔄 Limpar Filtros
+                </button>
+                
+                <button id="btn-export" class="btn-action">
+                    📥 Exportar CSV
+                </button>
+            </div>
+        </div>
+
+        <!-- Schedule Table -->
+        <div class="table-card">
+            <div class="table-responsive">
+                <table id="schedule-table">
+                    <thead>
+                        <tr>
+                            <th class="idx-col">#</th>
+                            <th class="sortable" data-sort="datetime">Data / Horário</th>
+                            <th class="sortable" data-sort="category">Categoria</th>
+                            <th class="sortable" data-sort="round">Fase / Rodada</th>
+                            <th class="sortable" data-sort="teams">Confronto (Times / Atletas)</th>
+                            <th class="sortable" data-sort="venue">Quadra & Local</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-body">
+
+        <tr>
+            <td class="idx-col">1</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 31/08/2026 01:45 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 31/08/2026 11:45 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-amador">
+                    Amador - Duplas Masculinas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">Flavio de Saldanha da Gama de Moura / Claudio Fialdini</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 15 · Court 15</span>
+                    <span class="venue-name">TRANG HOANG</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">2</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 30/08/2026 22:50 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 31/08/2026 08:50 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-amador">
+                    Amador - Duplas Masculinas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">Renato Dias de Azevedo / Samuel Medeiros de Azevedo</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 12 · Court 12</span>
+                    <span class="venue-name">TRANG HOANG</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">3</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 01/09/2026 03:50 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 01/09/2026 13:50 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-amador">
+                    Amador - Duplas Mistas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">Renato Dias de Azevedo / Juliane Quezia Avelino Medeiros de Azevedo</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 13 · Court 13</span>
+                    <span class="venue-name">TRANG HOANG</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">4</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 01/09/2026 02:35 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 01/09/2026 12:35 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-amador">
+                    Amador - Duplas Mistas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">Flavio de Saldanha da Gama de Moura / Deborahgebara</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 8 · Court 8</span>
+                    <span class="venue-name">HOP THANH PHAT</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">5</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 06/09/2026 00:05 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 06/09/2026 10:05 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-16/18 - Duplas Masculinas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">João Pedro Agulha Fernandes / João Pedro Jakobovitsch Costa</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 10 · Court 10</span>
+                    <span class="venue-name">TRANG HOANG</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">6</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 06/09/2026 01:20 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 06/09/2026 11:20 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-16/18 - Duplas Femininas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 4</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">Barbara Gomes / Carolina Boson Chomko</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 6 · Court 6</span>
+                    <span class="venue-name">TRANG HOANG</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">7</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 06/09/2026 01:45 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 06/09/2026 11:45 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-16/18 - Duplas Femininas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 5</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">Barbara Gomes / Carolina Boson Chomko</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 6 · Court 6</span>
+                    <span class="venue-name">TRANG HOANG</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">8</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 01:20 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 11:20 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-18 - Duplas Mistas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 4</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">João Pedro Agulha Fernandes / Isadora Campi</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 11 · Court 11</span>
+                    <span class="venue-name">TRUONG SON</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">9</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 01:45 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 11:45 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-18 - Duplas Mistas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 5</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">João Pedro Agulha Fernandes / Isadora Campi</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 11 · Court 11</span>
+                    <span class="venue-name">TRUONG SON</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">10</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 02:10 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 12:10 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-18 - Duplas Mistas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 6</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">João Pedro Agulha Fernandes / Isadora Campi</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 11 · Court 11</span>
+                    <span class="venue-name">TRUONG SON</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">11</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 02:35 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 12:35 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-18 - Duplas Mistas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 7</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">João Pedro Agulha Fernandes / Isadora Campi</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 11 · Court 11</span>
+                    <span class="venue-name">TRUONG SON</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">12</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 23:15 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 09:15 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-18 - Duplas Mistas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">Barbara Gomes / Maciel Batista da Silva</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 8 · Court 8</span>
+                    <span class="venue-name">TRUONG SON</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">13</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 22:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 05/09/2026 08:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-18 - Simples Masculino
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">João Pedro Agulha Fernandes</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 11 · A3</span>
+                    <span class="venue-name">TUYEN SON</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">14</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 22:25 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 05/09/2026 08:25 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-18 - Simples Masculino
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">João Pedro Agulha Fernandes</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 11 · A3</span>
+                    <span class="venue-name">TUYEN SON</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">15</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 23:15 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 05/09/2026 09:15 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-18 - Simples Feminino
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">Isadora Campi</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 15 · A7</span>
+                    <span class="venue-name">TUYEN SON</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">16</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 23:40 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 05/09/2026 09:40 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-18 - Simples Feminino
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">Isadora Campi</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 15 · A7</span>
+                    <span class="venue-name">TUYEN SON</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">17</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 05/09/2026 00:05 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 05/09/2026 10:05 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-junior">
+                    Sub-18 - Simples Feminino
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">Isadora Campi</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 15 · A7</span>
+                    <span class="venue-name">TUYEN SON</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">18</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 05:36 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 15:36 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Juvenil (Sub-18)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">19</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 04:24 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 14:24 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Juvenil (Sub-18)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">20</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 04:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 14:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Juvenil (Sub-18)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">21</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 04:48 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 14:48 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Juvenil (Sub-18)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">22</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 05:12 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 15:12 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Juvenil (Sub-18)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">23</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 01:36 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 11:36 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">24</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 00:24 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 10:24 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">25</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 00:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 10:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">26</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 00:48 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 10:48 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">27</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 01:12 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 11:12 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">28</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 23:36 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 09:36 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">29</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 22:24 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 08:24 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">30</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 22:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 08:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">31</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 22:48 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 08:48 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">32</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 23:12 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 09:12 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">33</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 23:36 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 09:36 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Master (+35)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">34</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 22:24 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 08:24 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Master (+35)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">35</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 22:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 08:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Master (+35)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">36</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 22:48 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 08:48 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Master (+35)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">37</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 23:12 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 09:12 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Master (+35)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">38</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 03:42 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 13:42 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">39</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 02:17 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 12:17 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">40</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 03:25 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 13:25 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">41</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 02:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 12:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">42</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 03:08 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 13:08 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">43</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 02:34 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 12:34 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">44</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 02:51 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 12:51 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 3</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">45</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 01:42 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 11:42 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">46</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 00:17 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 10:17 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">47</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 01:25 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 11:25 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">48</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 00:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 10:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">49</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 01:08 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 11:08 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">50</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 00:34 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 10:34 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">51</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 00:51 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 10:51 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 2</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">52</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 23:42 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 09:42 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">53</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 22:17 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 08:17 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">54</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 23:25 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 09:25 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">55</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 22:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 08:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">56</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 23:08 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 09:08 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">57</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 22:34 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 08:34 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">58</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 22:51 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 08:51 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">59</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 31/08/2026 23:10 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 01/09/2026 09:10 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-pro">
+                    PRO - Duplas Masculinas
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round of 64</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name highlight">João Pedro Agulha Fernandes / Kevin Dayan</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 7 · Court 5</span>
+                    <span class="venue-name">TIEN SON CENTER</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">60</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 31/08/2026 01:15 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 31/08/2026 11:15 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-pro">
+                    PRO - Simples Masculino
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round of 64</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Hugo Cesar Dojas</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 5 · Court 3</span>
+                    <span class="venue-name">TIEN SON CENTER</span>
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">61</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 05:36 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 15:36 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Senior (+50)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">62</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 04:24 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 14:24 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Senior (+50)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">63</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 04:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 14:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Senior (+50)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">64</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 04:48 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 14:48 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Senior (+50)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">65</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 05:12 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 15:12 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Senior (+50)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">Round 1</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Brazil</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Court TBD</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">66</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 04:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 14:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Juvenil (Sub-18)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 23 · B8</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">67</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 05:36 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 15:36 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Juvenil (Sub-18)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 23 · B8</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">68</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 04:24 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 14:24 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Juvenil (Sub-18)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 23 · B8</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">69</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 04:48 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 14:48 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Juvenil (Sub-18)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 23 · B8</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">70</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 05:12 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 15:12 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Juvenil (Sub-18)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 23 · B8</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">71</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 00:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 10:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · CC</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">72</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 01:36 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 11:36 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · CC</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">73</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 00:24 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 10:24 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · CC</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">74</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 00:48 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 10:48 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · CC</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">75</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 04/09/2026 01:12 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 11:12 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · CC</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">76</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 22:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 08:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 3 · Court 1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">77</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 23:36 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 09:36 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 3 · Court 1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">78</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 22:24 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 08:24 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 3 · Court 1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">79</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 22:48 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 08:48 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 3 · Court 1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">80</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 23:12 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 04/09/2026 09:12 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Infantil (Sub-14)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 3 · Court 1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">81</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 02:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 12:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">82</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 03:42 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 13:42 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">83</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 02:17 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 12:17 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">84</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 03:25 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 13:25 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">85</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 03:08 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 13:08 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">86</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 02:34 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 12:34 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">87</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 02:51 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 12:51 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">88</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 00:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 10:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">89</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 01:42 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 11:42 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">90</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 00:17 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 10:17 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">91</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 01:25 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 11:25 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">92</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 01:08 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 11:08 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">93</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 00:34 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 10:34 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">94</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 00:51 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 10:51 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">95</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 22:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 08:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">96</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 23:42 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 09:42 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">97</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 22:17 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 08:17 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">98</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 23:25 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 09:25 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">99</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 23:08 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 09:08 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">100</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 22:34 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 08:34 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">101</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 02/09/2026 22:51 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 08:51 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Equipe Open
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 1 · D1</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">102</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 04:00 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 14:00 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Senior (+50)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 2 · D2</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">103</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 05:36 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 15:36 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Senior (+50)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 2 · D2</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">104</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 04:24 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 14:24 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Senior (+50)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 2 · D2</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">105</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 04:48 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 14:48 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Senior (+50)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 2 · D2</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+
+        <tr>
+            <td class="idx-col">106</td>
+            <td>
+                <div class="time-box">
+                    <div class="time-badge brt">🇧🇷 03/09/2026 05:12 (BRT)</div>
+                    <div class="time-badge local" style="display:none;">🇻🇳 03/09/2026 15:12 (Vietnã)</div>
+                </div>
+            </td>
+            <td>
+                <span class="category-pill cat-mundial">
+                    Mundial - Senior (+50)
+                </span>
+            </td>
+            <td>
+                <span class="round-tag">-</span>
+            </td>
+            <td>
+                <div class="matchup-box">
+                    <span class="team-name ">Time A</span>
+                    <span class="vs-badge">VS</span>
+                    <span class="team-name">Time B</span>
+                </div>
+            </td>
+            <td>
+                <div class="venue-box">
+                    <span class="court-badge">📍 Quadra 2 · D2</span>
+                    
+                </div>
+            </td>
+        </tr>
+    
+                    </tbody>
+                </table>
+            </div>
+
+            <div id="empty-state" class="empty-state" style="display: none;">
+                <span class="icon">🔍</span>
+                <p style="font-size: 1.1rem; font-weight: 600; color: var(--text-primary);">Nenhuma partida encontrada</p>
+                <p style="font-size: 0.9rem; margin-top: 4px;">Tente ajustar sua busca ou limpar os filtros selecionados.</p>
+            </div>
+        </div>
+
+        <div class="footer-info">
+            <div>Fonte dos dados: Arquivo JSON bruto do workspace (Pickleball World Cup 2026).</div>
+            <div>Exibindo <span id="showing-count" style="color: var(--text-primary); font-weight: 700;">106</span> partidas.</div>
+        </div>
+    </main>
+
+    <!-- Native JavaScript Array -->
+    <script>
+        window.MATCHES_DATA = [{"id": "amateur_doubles_mens____amateur_doubles_mens_60+_≥_4.5__m7", "date": "2026-08-31", "time_local": "11:45", "time_brt": "01:45", "datetime_local": "31/08/2026 11:45", "datetime_brt": "31/08/2026 01:45", "category": "Amador - Duplas Masculinas", "raw_category": "amateur_doubles_mens", "round": "Round 1", "discipline": "", "teamA": "Flavio de Saldanha da Gama de Moura / Claudio Fialdini", "teamB": "Time B", "court": "Quadra 15 · Court 15", "venue": "TRANG HOANG"}, {"id": "amateur_doubles_mens____amateur_doubles_mens_All Ages_≥_3.5__m35", "date": "2026-08-31", "time_local": "08:50", "time_brt": "22:50", "datetime_local": "31/08/2026 08:50", "datetime_brt": "30/08/2026 22:50", "category": "Amador - Duplas Masculinas", "raw_category": "amateur_doubles_mens", "round": "Round 3", "discipline": "", "teamA": "Renato Dias de Azevedo / Samuel Medeiros de Azevedo", "teamB": "Time B", "court": "Quadra 12 · Court 12", "venue": "TRANG HOANG"}, {"id": "amateur_mixed____amateur_mixed_40+_≥_3.5__m23", "date": "2026-09-01", "time_local": "13:50", "time_brt": "03:50", "datetime_local": "01/09/2026 13:50", "datetime_brt": "01/09/2026 03:50", "category": "Amador - Duplas Mistas", "raw_category": "amateur_mixed", "round": "Round 3", "discipline": "", "teamA": "Renato Dias de Azevedo / Juliane Quezia Avelino Medeiros de Azevedo", "teamB": "Time B", "court": "Quadra 13 · Court 13", "venue": "TRANG HOANG"}, {"id": "amateur_mixed____amateur_mixed_60+_≥_4.5__m17", "date": "2026-09-01", "time_local": "12:35", "time_brt": "02:35", "datetime_local": "01/09/2026 12:35", "datetime_brt": "01/09/2026 02:35", "category": "Amador - Duplas Mistas", "raw_category": "amateur_mixed", "round": "Round 3", "discipline": "", "teamA": "Flavio de Saldanha da Gama de Moura / Deborahgebara", "teamB": "Time B", "court": "Quadra 8 · Court 8", "venue": "HOP THANH PHAT"}, {"id": "junior_doubles_boys____junior_doubles_boys_18_under__m23", "date": "2026-09-06", "time_local": "10:05", "time_brt": "00:05", "datetime_local": "06/09/2026 10:05", "datetime_brt": "06/09/2026 00:05", "category": "Sub-16/18 - Duplas Masculinas Junior", "raw_category": "junior_doubles_boys", "round": "Round 3", "discipline": "", "teamA": "João Pedro Agulha Fernandes / João Pedro Jakobovitsch Costa", "teamB": "Time B", "court": "Quadra 10 · Court 10", "venue": "TRANG HOANG"}, {"id": "junior_doubles_girls____junior_doubles_girls_16_under__m11", "date": "2026-09-06", "time_local": "11:20", "time_brt": "01:20", "datetime_local": "06/09/2026 11:20", "datetime_brt": "06/09/2026 01:20", "category": "Sub-16/18 - Duplas Femininas Junior", "raw_category": "junior_doubles_girls", "round": "Round 4", "discipline": "", "teamA": "Barbara Gomes / Carolina Boson Chomko", "teamB": "Time B", "court": "Quadra 6 · Court 6", "venue": "TRANG HOANG"}, {"id": "junior_doubles_girls____junior_doubles_girls_16_under__m13", "date": "2026-09-06", "time_local": "11:45", "time_brt": "01:45", "datetime_local": "06/09/2026 11:45", "datetime_brt": "06/09/2026 01:45", "category": "Sub-16/18 - Duplas Femininas Junior", "raw_category": "junior_doubles_girls", "round": "Round 5", "discipline": "", "teamA": "Barbara Gomes / Carolina Boson Chomko", "teamB": "Time B", "court": "Quadra 6 · Court 6", "venue": "TRANG HOANG"}, {"id": "junior_mixed____junior_mixed_18_under__m32", "date": "2026-09-03", "time_local": "11:20", "time_brt": "01:20", "datetime_local": "03/09/2026 11:20", "datetime_brt": "03/09/2026 01:20", "category": "Sub-18 - Duplas Mistas Junior", "raw_category": "junior_mixed", "round": "Round 4", "discipline": "", "teamA": "João Pedro Agulha Fernandes / Isadora Campi", "teamB": "Time B", "court": "Quadra 11 · Court 11", "venue": "TRUONG SON"}, {"id": "junior_mixed____junior_mixed_18_under__m33", "date": "2026-09-03", "time_local": "11:45", "time_brt": "01:45", "datetime_local": "03/09/2026 11:45", "datetime_brt": "03/09/2026 01:45", "category": "Sub-18 - Duplas Mistas Junior", "raw_category": "junior_mixed", "round": "Round 5", "discipline": "", "teamA": "João Pedro Agulha Fernandes / Isadora Campi", "teamB": "Time B", "court": "Quadra 11 · Court 11", "venue": "TRUONG SON"}, {"id": "junior_mixed____junior_mixed_18_under__m34", "date": "2026-09-03", "time_local": "12:10", "time_brt": "02:10", "datetime_local": "03/09/2026 12:10", "datetime_brt": "03/09/2026 02:10", "category": "Sub-18 - Duplas Mistas Junior", "raw_category": "junior_mixed", "round": "Round 6", "discipline": "", "teamA": "João Pedro Agulha Fernandes / Isadora Campi", "teamB": "Time B", "court": "Quadra 11 · Court 11", "venue": "TRUONG SON"}, {"id": "junior_mixed____junior_mixed_18_under__m35", "date": "2026-09-03", "time_local": "12:35", "time_brt": "02:35", "datetime_local": "03/09/2026 12:35", "datetime_brt": "03/09/2026 02:35", "category": "Sub-18 - Duplas Mistas Junior", "raw_category": "junior_mixed", "round": "Round 7", "discipline": "", "teamA": "João Pedro Agulha Fernandes / Isadora Campi", "teamB": "Time B", "court": "Quadra 11 · Court 11", "venue": "TRUONG SON"}, {"id": "junior_mixed____junior_mixed_18_under__m7", "date": "2026-09-03", "time_local": "09:15", "time_brt": "23:15", "datetime_local": "03/09/2026 09:15", "datetime_brt": "02/09/2026 23:15", "category": "Sub-18 - Duplas Mistas Junior", "raw_category": "junior_mixed", "round": "Round 1", "discipline": "", "teamA": "Barbara Gomes / Maciel Batista da Silva", "teamB": "Time B", "court": "Quadra 8 · Court 8", "venue": "TRUONG SON"}, {"id": "junior_singles_boys____junior_singles_boys_16_under__m0", "date": "2026-09-05", "time_local": "08:00", "time_brt": "22:00", "datetime_local": "05/09/2026 08:00", "datetime_brt": "04/09/2026 22:00", "category": "Sub-18 - Simples Masculino Junior", "raw_category": "junior_singles_boys", "round": "Round 1", "discipline": "", "teamA": "João Pedro Agulha Fernandes", "teamB": "Time B", "court": "Quadra 11 · A3", "venue": "TUYEN SON"}, {"id": "junior_singles_boys____junior_singles_boys_16_under__m2", "date": "2026-09-05", "time_local": "08:25", "time_brt": "22:25", "datetime_local": "05/09/2026 08:25", "datetime_brt": "04/09/2026 22:25", "category": "Sub-18 - Simples Masculino Junior", "raw_category": "junior_singles_boys", "round": "Round 2", "discipline": "", "teamA": "João Pedro Agulha Fernandes", "teamB": "Time B", "court": "Quadra 11 · A3", "venue": "TUYEN SON"}, {"id": "junior_singles_girls____junior_singles_girls_18_under__m0", "date": "2026-09-05", "time_local": "09:15", "time_brt": "23:15", "datetime_local": "05/09/2026 09:15", "datetime_brt": "04/09/2026 23:15", "category": "Sub-18 - Simples Feminino Junior", "raw_category": "junior_singles_girls", "round": "Round 1", "discipline": "", "teamA": "Isadora Campi", "teamB": "Time B", "court": "Quadra 15 · A7", "venue": "TUYEN SON"}, {"id": "junior_singles_girls____junior_singles_girls_18_under__m2", "date": "2026-09-05", "time_local": "09:40", "time_brt": "23:40", "datetime_local": "05/09/2026 09:40", "datetime_brt": "04/09/2026 23:40", "category": "Sub-18 - Simples Feminino Junior", "raw_category": "junior_singles_girls", "round": "Round 2", "discipline": "", "teamA": "Isadora Campi", "teamB": "Time B", "court": "Quadra 15 · A7", "venue": "TUYEN SON"}, {"id": "junior_singles_girls____junior_singles_girls_18_under__m4", "date": "2026-09-05", "time_local": "10:05", "time_brt": "00:05", "datetime_local": "05/09/2026 10:05", "datetime_brt": "05/09/2026 00:05", "category": "Sub-18 - Simples Feminino Junior", "raw_category": "junior_singles_girls", "round": "Round 3", "discipline": "", "teamA": "Isadora Campi", "teamB": "Time B", "court": "Quadra 15 · A7", "venue": "TUYEN SON"}, {"id": "juniors_team_coed____default__m23__sub-FB", "date": "2026-09-04", "time_local": "15:36", "time_brt": "05:36", "datetime_local": "04/09/2026 15:36", "datetime_brt": "04/09/2026 05:36", "category": "Cúp Thế Giới - Juniors Team (Sub-18)", "raw_category": "juniors_team_coed", "round": "Round 1", "discipline": "Final Battle", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "juniors_team_coed____default__m23__sub-MD", "date": "2026-09-04", "time_local": "14:24", "time_brt": "04:24", "datetime_local": "04/09/2026 14:24", "datetime_brt": "04/09/2026 04:24", "category": "Cúp Thế Giới - Juniors Team (Sub-18)", "raw_category": "juniors_team_coed", "round": "Round 1", "discipline": "Duplas Masculinas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "juniors_team_coed____default__m23__sub-WD", "date": "2026-09-04", "time_local": "14:00", "time_brt": "04:00", "datetime_local": "04/09/2026 14:00", "datetime_brt": "04/09/2026 04:00", "category": "Cúp Thế Giới - Juniors Team (Sub-18)", "raw_category": "juniors_team_coed", "round": "Round 1", "discipline": "Duplas Femininas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "juniors_team_coed____default__m23__sub-XD-1", "date": "2026-09-04", "time_local": "14:48", "time_brt": "04:48", "datetime_local": "04/09/2026 14:48", "datetime_brt": "04/09/2026 04:48", "category": "Cúp Thế Giới - Juniors Team (Sub-18)", "raw_category": "juniors_team_coed", "round": "Round 1", "discipline": "Duplas Mistas 1", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "juniors_team_coed____default__m23__sub-XD-2", "date": "2026-09-04", "time_local": "15:12", "time_brt": "05:12", "datetime_local": "04/09/2026 15:12", "datetime_brt": "04/09/2026 05:12", "category": "Cúp Thế Giới - Juniors Team (Sub-18)", "raw_category": "juniors_team_coed", "round": "Round 1", "discipline": "Duplas Mistas 2", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "kids_team_coed____default__m6__sub-FB", "date": "2026-09-04", "time_local": "11:36", "time_brt": "01:36", "datetime_local": "04/09/2026 11:36", "datetime_brt": "04/09/2026 01:36", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "Round 3", "discipline": "Final Battle", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "kids_team_coed____default__m6__sub-MD", "date": "2026-09-04", "time_local": "10:24", "time_brt": "00:24", "datetime_local": "04/09/2026 10:24", "datetime_brt": "04/09/2026 00:24", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "Round 3", "discipline": "Duplas Masculinas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "kids_team_coed____default__m6__sub-WD", "date": "2026-09-04", "time_local": "10:00", "time_brt": "00:00", "datetime_local": "04/09/2026 10:00", "datetime_brt": "04/09/2026 00:00", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "Round 3", "discipline": "Duplas Femininas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "kids_team_coed____default__m6__sub-XD-1", "date": "2026-09-04", "time_local": "10:48", "time_brt": "00:48", "datetime_local": "04/09/2026 10:48", "datetime_brt": "04/09/2026 00:48", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "Round 3", "discipline": "Duplas Mistas 1", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "kids_team_coed____default__m6__sub-XD-2", "date": "2026-09-04", "time_local": "11:12", "time_brt": "01:12", "datetime_local": "04/09/2026 11:12", "datetime_brt": "04/09/2026 01:12", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "Round 3", "discipline": "Duplas Mistas 2", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "kids_team_coed____default__m8__sub-FB", "date": "2026-09-04", "time_local": "09:36", "time_brt": "23:36", "datetime_local": "04/09/2026 09:36", "datetime_brt": "03/09/2026 23:36", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "Round 2", "discipline": "Final Battle", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "kids_team_coed____default__m8__sub-MD", "date": "2026-09-04", "time_local": "08:24", "time_brt": "22:24", "datetime_local": "04/09/2026 08:24", "datetime_brt": "03/09/2026 22:24", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "Round 2", "discipline": "Duplas Masculinas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "kids_team_coed____default__m8__sub-WD", "date": "2026-09-04", "time_local": "08:00", "time_brt": "22:00", "datetime_local": "04/09/2026 08:00", "datetime_brt": "03/09/2026 22:00", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "Round 2", "discipline": "Duplas Femininas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "kids_team_coed____default__m8__sub-XD-1", "date": "2026-09-04", "time_local": "08:48", "time_brt": "22:48", "datetime_local": "04/09/2026 08:48", "datetime_brt": "03/09/2026 22:48", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "Round 2", "discipline": "Duplas Mistas 1", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "kids_team_coed____default__m8__sub-XD-2", "date": "2026-09-04", "time_local": "09:12", "time_brt": "23:12", "datetime_local": "04/09/2026 09:12", "datetime_brt": "03/09/2026 23:12", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "Round 2", "discipline": "Duplas Mistas 2", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "masters_team_coed____default__m5__sub-FB", "date": "2026-09-04", "time_local": "09:36", "time_brt": "23:36", "datetime_local": "04/09/2026 09:36", "datetime_brt": "03/09/2026 23:36", "category": "Cúp Thế Giới - Masters Team (+35)", "raw_category": "masters_team_coed", "round": "Round 1", "discipline": "Final Battle", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "masters_team_coed____default__m5__sub-MD", "date": "2026-09-04", "time_local": "08:24", "time_brt": "22:24", "datetime_local": "04/09/2026 08:24", "datetime_brt": "03/09/2026 22:24", "category": "Cúp Thế Giới - Masters Team (+35)", "raw_category": "masters_team_coed", "round": "Round 1", "discipline": "Duplas Masculinas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "masters_team_coed____default__m5__sub-WD", "date": "2026-09-04", "time_local": "08:00", "time_brt": "22:00", "datetime_local": "04/09/2026 08:00", "datetime_brt": "03/09/2026 22:00", "category": "Cúp Thế Giới - Masters Team (+35)", "raw_category": "masters_team_coed", "round": "Round 1", "discipline": "Duplas Femininas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "masters_team_coed____default__m5__sub-XD-1", "date": "2026-09-04", "time_local": "08:48", "time_brt": "22:48", "datetime_local": "04/09/2026 08:48", "datetime_brt": "03/09/2026 22:48", "category": "Cúp Thế Giới - Masters Team (+35)", "raw_category": "masters_team_coed", "round": "Round 1", "discipline": "Duplas Mistas 1", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "masters_team_coed____default__m5__sub-XD-2", "date": "2026-09-04", "time_local": "09:12", "time_brt": "23:12", "datetime_local": "04/09/2026 09:12", "datetime_brt": "03/09/2026 23:12", "category": "Cúp Thế Giới - Masters Team (+35)", "raw_category": "masters_team_coed", "round": "Round 1", "discipline": "Duplas Mistas 2", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m24__sub-FB", "date": "2026-09-03", "time_local": "13:42", "time_brt": "03:42", "datetime_local": "03/09/2026 13:42", "datetime_brt": "03/09/2026 03:42", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 3", "discipline": "Final Battle", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m24__sub-MD", "date": "2026-09-03", "time_local": "12:17", "time_brt": "02:17", "datetime_local": "03/09/2026 12:17", "datetime_brt": "03/09/2026 02:17", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 3", "discipline": "Duplas Masculinas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m24__sub-MS", "date": "2026-09-03", "time_local": "13:25", "time_brt": "03:25", "datetime_local": "03/09/2026 13:25", "datetime_brt": "03/09/2026 03:25", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 3", "discipline": "Simples Masculino", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m24__sub-WD", "date": "2026-09-03", "time_local": "12:00", "time_brt": "02:00", "datetime_local": "03/09/2026 12:00", "datetime_brt": "03/09/2026 02:00", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 3", "discipline": "Duplas Femininas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m24__sub-WS", "date": "2026-09-03", "time_local": "13:08", "time_brt": "03:08", "datetime_local": "03/09/2026 13:08", "datetime_brt": "03/09/2026 03:08", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 3", "discipline": "Simples Feminino", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m24__sub-XD-1", "date": "2026-09-03", "time_local": "12:34", "time_brt": "02:34", "datetime_local": "03/09/2026 12:34", "datetime_brt": "03/09/2026 02:34", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 3", "discipline": "Duplas Mistas 1", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m24__sub-XD-2", "date": "2026-09-03", "time_local": "12:51", "time_brt": "02:51", "datetime_local": "03/09/2026 12:51", "datetime_brt": "03/09/2026 02:51", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 3", "discipline": "Duplas Mistas 2", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m26__sub-FB", "date": "2026-09-03", "time_local": "11:42", "time_brt": "01:42", "datetime_local": "03/09/2026 11:42", "datetime_brt": "03/09/2026 01:42", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 2", "discipline": "Final Battle", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m26__sub-MD", "date": "2026-09-03", "time_local": "10:17", "time_brt": "00:17", "datetime_local": "03/09/2026 10:17", "datetime_brt": "03/09/2026 00:17", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 2", "discipline": "Duplas Masculinas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m26__sub-MS", "date": "2026-09-03", "time_local": "11:25", "time_brt": "01:25", "datetime_local": "03/09/2026 11:25", "datetime_brt": "03/09/2026 01:25", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 2", "discipline": "Simples Masculino", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m26__sub-WD", "date": "2026-09-03", "time_local": "10:00", "time_brt": "00:00", "datetime_local": "03/09/2026 10:00", "datetime_brt": "03/09/2026 00:00", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 2", "discipline": "Duplas Femininas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m26__sub-WS", "date": "2026-09-03", "time_local": "11:08", "time_brt": "01:08", "datetime_local": "03/09/2026 11:08", "datetime_brt": "03/09/2026 01:08", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 2", "discipline": "Simples Feminino", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m26__sub-XD-1", "date": "2026-09-03", "time_local": "10:34", "time_brt": "00:34", "datetime_local": "03/09/2026 10:34", "datetime_brt": "03/09/2026 00:34", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 2", "discipline": "Duplas Mistas 1", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m26__sub-XD-2", "date": "2026-09-03", "time_local": "10:51", "time_brt": "00:51", "datetime_local": "03/09/2026 10:51", "datetime_brt": "03/09/2026 00:51", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 2", "discipline": "Duplas Mistas 2", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m28__sub-FB", "date": "2026-09-03", "time_local": "09:42", "time_brt": "23:42", "datetime_local": "03/09/2026 09:42", "datetime_brt": "02/09/2026 23:42", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 1", "discipline": "Final Battle", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m28__sub-MD", "date": "2026-09-03", "time_local": "08:17", "time_brt": "22:17", "datetime_local": "03/09/2026 08:17", "datetime_brt": "02/09/2026 22:17", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 1", "discipline": "Duplas Masculinas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m28__sub-MS", "date": "2026-09-03", "time_local": "09:25", "time_brt": "23:25", "datetime_local": "03/09/2026 09:25", "datetime_brt": "02/09/2026 23:25", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 1", "discipline": "Simples Masculino", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m28__sub-WD", "date": "2026-09-03", "time_local": "08:00", "time_brt": "22:00", "datetime_local": "03/09/2026 08:00", "datetime_brt": "02/09/2026 22:00", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 1", "discipline": "Duplas Femininas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m28__sub-WS", "date": "2026-09-03", "time_local": "09:08", "time_brt": "23:08", "datetime_local": "03/09/2026 09:08", "datetime_brt": "02/09/2026 23:08", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 1", "discipline": "Simples Feminino", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m28__sub-XD-1", "date": "2026-09-03", "time_local": "08:34", "time_brt": "22:34", "datetime_local": "03/09/2026 08:34", "datetime_brt": "02/09/2026 22:34", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 1", "discipline": "Duplas Mistas 1", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "open_team_coed____default__m28__sub-XD-2", "date": "2026-09-03", "time_local": "08:51", "time_brt": "22:51", "datetime_local": "03/09/2026 08:51", "datetime_brt": "02/09/2026 22:51", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "Round 1", "discipline": "Duplas Mistas 2", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "pro_doubles_mens____pro_doubles_mens__m95", "date": "2026-09-01", "time_local": "09:10", "time_brt": "23:10", "datetime_local": "01/09/2026 09:10", "datetime_brt": "31/08/2026 23:10", "category": "PRO - Duplas Masculinas", "raw_category": "pro_doubles_mens", "round": "Round of 64", "discipline": "", "teamA": "João Pedro Agulha Fernandes / Kevin Dayan", "teamB": "Time B", "court": "Quadra 7 · Court 5", "venue": "TIEN SON CENTER"}, {"id": "pro_singles_mens____pro_singles_mens__m95", "date": "2026-08-31", "time_local": "11:15", "time_brt": "01:15", "datetime_local": "31/08/2026 11:15", "datetime_brt": "31/08/2026 01:15", "category": "PRO - Simples Masculino", "raw_category": "pro_singles_mens", "round": "Round of 64", "discipline": "", "teamA": "Hugo Cesar Dojas", "teamB": "Time B", "court": "Quadra 5 · Court 3", "venue": "TIEN SON CENTER"}, {"id": "seniors_team_coed____default__m17__sub-FB", "date": "2026-09-03", "time_local": "15:36", "time_brt": "05:36", "datetime_local": "03/09/2026 15:36", "datetime_brt": "03/09/2026 05:36", "category": "Cúp Thế Giới - Seniors Team (+50)", "raw_category": "seniors_team_coed", "round": "Round 1", "discipline": "Final Battle", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "seniors_team_coed____default__m17__sub-MD", "date": "2026-09-03", "time_local": "14:24", "time_brt": "04:24", "datetime_local": "03/09/2026 14:24", "datetime_brt": "03/09/2026 04:24", "category": "Cúp Thế Giới - Seniors Team (+50)", "raw_category": "seniors_team_coed", "round": "Round 1", "discipline": "Duplas Masculinas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "seniors_team_coed____default__m17__sub-WD", "date": "2026-09-03", "time_local": "14:00", "time_brt": "04:00", "datetime_local": "03/09/2026 14:00", "datetime_brt": "03/09/2026 04:00", "category": "Cúp Thế Giới - Seniors Team (+50)", "raw_category": "seniors_team_coed", "round": "Round 1", "discipline": "Duplas Femininas", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "seniors_team_coed____default__m17__sub-XD-1", "date": "2026-09-03", "time_local": "14:48", "time_brt": "04:48", "datetime_local": "03/09/2026 14:48", "datetime_brt": "03/09/2026 04:48", "category": "Cúp Thế Giới - Seniors Team (+50)", "raw_category": "seniors_team_coed", "round": "Round 1", "discipline": "Duplas Mistas 1", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": "seniors_team_coed____default__m17__sub-XD-2", "date": "2026-09-03", "time_local": "15:12", "time_brt": "05:12", "datetime_local": "03/09/2026 15:12", "datetime_brt": "03/09/2026 05:12", "category": "Cúp Thế Giới - Seniors Team (+50)", "raw_category": "seniors_team_coed", "round": "Round 1", "discipline": "Duplas Mistas 2", "teamA": "Brazil", "teamB": "Time B", "court": "Court TBD", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "14:00", "time_brt": "04:00", "datetime_local": "04/09/2026 14:00", "datetime_brt": "04/09/2026 04:00", "category": "Cúp Thế Giới - Juniors Team (Sub-18)", "raw_category": "juniors_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 23 · B8", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "15:36", "time_brt": "05:36", "datetime_local": "04/09/2026 15:36", "datetime_brt": "04/09/2026 05:36", "category": "Cúp Thế Giới - Juniors Team (Sub-18)", "raw_category": "juniors_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 23 · B8", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "14:24", "time_brt": "04:24", "datetime_local": "04/09/2026 14:24", "datetime_brt": "04/09/2026 04:24", "category": "Cúp Thế Giới - Juniors Team (Sub-18)", "raw_category": "juniors_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 23 · B8", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "14:48", "time_brt": "04:48", "datetime_local": "04/09/2026 14:48", "datetime_brt": "04/09/2026 04:48", "category": "Cúp Thế Giới - Juniors Team (Sub-18)", "raw_category": "juniors_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 23 · B8", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "15:12", "time_brt": "05:12", "datetime_local": "04/09/2026 15:12", "datetime_brt": "04/09/2026 05:12", "category": "Cúp Thế Giới - Juniors Team (Sub-18)", "raw_category": "juniors_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 23 · B8", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "10:00", "time_brt": "00:00", "datetime_local": "04/09/2026 10:00", "datetime_brt": "04/09/2026 00:00", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · CC", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "11:36", "time_brt": "01:36", "datetime_local": "04/09/2026 11:36", "datetime_brt": "04/09/2026 01:36", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · CC", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "10:24", "time_brt": "00:24", "datetime_local": "04/09/2026 10:24", "datetime_brt": "04/09/2026 00:24", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · CC", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "10:48", "time_brt": "00:48", "datetime_local": "04/09/2026 10:48", "datetime_brt": "04/09/2026 00:48", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · CC", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "11:12", "time_brt": "01:12", "datetime_local": "04/09/2026 11:12", "datetime_brt": "04/09/2026 01:12", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · CC", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "08:00", "time_brt": "22:00", "datetime_local": "04/09/2026 08:00", "datetime_brt": "03/09/2026 22:00", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 3 · Court 1", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "09:36", "time_brt": "23:36", "datetime_local": "04/09/2026 09:36", "datetime_brt": "03/09/2026 23:36", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 3 · Court 1", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "08:24", "time_brt": "22:24", "datetime_local": "04/09/2026 08:24", "datetime_brt": "03/09/2026 22:24", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 3 · Court 1", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "08:48", "time_brt": "22:48", "datetime_local": "04/09/2026 08:48", "datetime_brt": "03/09/2026 22:48", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 3 · Court 1", "venue": ""}, {"id": null, "date": "2026-09-04", "time_local": "09:12", "time_brt": "23:12", "datetime_local": "04/09/2026 09:12", "datetime_brt": "03/09/2026 23:12", "category": "Cúp Thế Giới - Kids Team (Sub-14)", "raw_category": "kids_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 3 · Court 1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "12:00", "time_brt": "02:00", "datetime_local": "03/09/2026 12:00", "datetime_brt": "03/09/2026 02:00", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "13:42", "time_brt": "03:42", "datetime_local": "03/09/2026 13:42", "datetime_brt": "03/09/2026 03:42", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "12:17", "time_brt": "02:17", "datetime_local": "03/09/2026 12:17", "datetime_brt": "03/09/2026 02:17", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "13:25", "time_brt": "03:25", "datetime_local": "03/09/2026 13:25", "datetime_brt": "03/09/2026 03:25", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "13:08", "time_brt": "03:08", "datetime_local": "03/09/2026 13:08", "datetime_brt": "03/09/2026 03:08", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "12:34", "time_brt": "02:34", "datetime_local": "03/09/2026 12:34", "datetime_brt": "03/09/2026 02:34", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "12:51", "time_brt": "02:51", "datetime_local": "03/09/2026 12:51", "datetime_brt": "03/09/2026 02:51", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "10:00", "time_brt": "00:00", "datetime_local": "03/09/2026 10:00", "datetime_brt": "03/09/2026 00:00", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "11:42", "time_brt": "01:42", "datetime_local": "03/09/2026 11:42", "datetime_brt": "03/09/2026 01:42", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "10:17", "time_brt": "00:17", "datetime_local": "03/09/2026 10:17", "datetime_brt": "03/09/2026 00:17", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "11:25", "time_brt": "01:25", "datetime_local": "03/09/2026 11:25", "datetime_brt": "03/09/2026 01:25", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "11:08", "time_brt": "01:08", "datetime_local": "03/09/2026 11:08", "datetime_brt": "03/09/2026 01:08", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "10:34", "time_brt": "00:34", "datetime_local": "03/09/2026 10:34", "datetime_brt": "03/09/2026 00:34", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "10:51", "time_brt": "00:51", "datetime_local": "03/09/2026 10:51", "datetime_brt": "03/09/2026 00:51", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "08:00", "time_brt": "22:00", "datetime_local": "03/09/2026 08:00", "datetime_brt": "02/09/2026 22:00", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "09:42", "time_brt": "23:42", "datetime_local": "03/09/2026 09:42", "datetime_brt": "02/09/2026 23:42", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "08:17", "time_brt": "22:17", "datetime_local": "03/09/2026 08:17", "datetime_brt": "02/09/2026 22:17", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "09:25", "time_brt": "23:25", "datetime_local": "03/09/2026 09:25", "datetime_brt": "02/09/2026 23:25", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "09:08", "time_brt": "23:08", "datetime_local": "03/09/2026 09:08", "datetime_brt": "02/09/2026 23:08", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "08:34", "time_brt": "22:34", "datetime_local": "03/09/2026 08:34", "datetime_brt": "02/09/2026 22:34", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "08:51", "time_brt": "22:51", "datetime_local": "03/09/2026 08:51", "datetime_brt": "02/09/2026 22:51", "category": "Cúp Thế Giới - Open Team (Mundial)", "raw_category": "open_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 1 · D1", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "14:00", "time_brt": "04:00", "datetime_local": "03/09/2026 14:00", "datetime_brt": "03/09/2026 04:00", "category": "Cúp Thế Giới - Seniors Team (+50)", "raw_category": "seniors_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 2 · D2", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "15:36", "time_brt": "05:36", "datetime_local": "03/09/2026 15:36", "datetime_brt": "03/09/2026 05:36", "category": "Cúp Thế Giới - Seniors Team (+50)", "raw_category": "seniors_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 2 · D2", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "14:24", "time_brt": "04:24", "datetime_local": "03/09/2026 14:24", "datetime_brt": "03/09/2026 04:24", "category": "Cúp Thế Giới - Seniors Team (+50)", "raw_category": "seniors_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 2 · D2", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "14:48", "time_brt": "04:48", "datetime_local": "03/09/2026 14:48", "datetime_brt": "03/09/2026 04:48", "category": "Cúp Thế Giới - Seniors Team (+50)", "raw_category": "seniors_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 2 · D2", "venue": ""}, {"id": null, "date": "2026-09-03", "time_local": "15:12", "time_brt": "05:12", "datetime_local": "03/09/2026 15:12", "datetime_brt": "03/09/2026 05:12", "category": "Cúp Thế Giới - Seniors Team (+50)", "raw_category": "seniors_team_coed", "round": "", "discipline": "", "teamA": "Time A", "teamB": "Time B", "court": "Quadra 2 · D2", "venue": ""}];
+
+        (function() {
+            const matchesData = window.MATCHES_DATA || [];
+            let currentTz = 'brt';
+            let currentSort = { key: 'datetime', asc: true };
+
+            const categoryMap = {"Cúp Thế Giới - Open Team (Mundial)": {"label": "Mundial - Equipe Open", "cls": "cat-mundial"}, "Cúp Thế Giới - Kids Team (Sub-14)": {"label": "Mundial - Infantil (Sub-14)", "cls": "cat-mundial"}, "Cúp Thế Giới - Juniors Team (Sub-18)": {"label": "Mundial - Juvenil (Sub-18)", "cls": "cat-mundial"}, "Cúp Thế Giới - Seniors Team (+50)": {"label": "Mundial - Senior (+50)", "cls": "cat-mundial"}, "Cúp Thế Giới - Masters Team (+35)": {"label": "Mundial - Master (+35)", "cls": "cat-mundial"}, "Sub-18 - Duplas Mistas Junior": {"label": "Sub-18 - Duplas Mistas", "cls": "cat-junior"}, "Sub-18 - Simples Feminino Junior": {"label": "Sub-18 - Simples Feminino", "cls": "cat-junior"}, "Sub-18 - Simples Masculino Junior": {"label": "Sub-18 - Simples Masculino", "cls": "cat-junior"}, "Sub-16/18 - Duplas Femininas Junior": {"label": "Sub-16/18 - Duplas Femininas", "cls": "cat-junior"}, "Sub-16/18 - Duplas Masculinas Junior": {"label": "Sub-16/18 - Duplas Masculinas", "cls": "cat-junior"}, "Amador - Duplas Masculinas": {"label": "Amador - Duplas Masculinas", "cls": "cat-amador"}, "Amador - Duplas Mistas": {"label": "Amador - Duplas Mistas", "cls": "cat-amador"}, "PRO - Duplas Masculinas": {"label": "PRO - Duplas Masculinas", "cls": "cat-pro"}, "PRO - Simples Masculino": {"label": "PRO - Simples Masculino", "cls": "cat-pro"}};
+
+            function getFilteredData() {
+                const searchInput = document.getElementById('search-input');
+                const searchVal = searchInput ? (searchInput.value || '').toLowerCase().trim() : '';
+                
+                const catSelect = document.getElementById('filter-category');
+                const selectedCat = catSelect ? catSelect.value : 'all';
+
+                const venueSelect = document.getElementById('filter-venue');
+                const selectedVenue = venueSelect ? venueSelect.value : 'all';
+
+                const roundSelect = document.getElementById('filter-round');
+                const selectedRound = roundSelect ? roundSelect.value : 'all';
+                
+                const activeDateBtn = document.querySelector('.date-pill.active');
+                const selectedDate = activeDateBtn ? activeDateBtn.dataset.date : 'all';
+
+                return matchesData.filter(m => {
+                    if (selectedDate !== 'all') {
+                        const brtDate = m.datetime_brt ? m.datetime_brt.split(' ')[0] : '';
+                        if (brtDate !== selectedDate) return false;
+                    }
+
+                    if (selectedCat !== 'all' && m.category !== selectedCat) return false;
+                    if (selectedVenue !== 'all' && m.venue !== selectedVenue) return false;
+                    if (selectedRound !== 'all' && m.round !== selectedRound) return false;
+
+                    if (searchVal) {
+                        const targetStr = `${m.teamA} ${m.teamB} ${m.category} ${m.round} ${m.court} ${m.venue}`.toLowerCase();
+                        if (!targetStr.includes(searchVal)) return false;
+                    }
+
+                    return true;
+                });
+            }
+
+            function renderTable() {
+                const filtered = getFilteredData();
+                const tbody = document.getElementById('table-body');
+                const emptyState = document.getElementById('empty-state');
+                const showingCount = document.getElementById('showing-count');
+
+                if (showingCount) showingCount.textContent = filtered.length;
+
+                if (filtered.length === 0) {
+                    if (tbody) tbody.innerHTML = '';
+                    if (emptyState) emptyState.style.display = 'block';
+                    return;
+                }
+
+                if (emptyState) emptyState.style.display = 'none';
+
+                filtered.sort((a, b) => {
+                    let valA = a[currentSort.key] || '';
+                    let valB = b[currentSort.key] || '';
+
+                    if (currentSort.key === 'datetime') {
+                        const parseDt = (str) => {
+                            if (!str) return 0;
+                            const [dStr, tStr] = str.split(' ');
+                            const [d, m, y] = dStr.split('/').map(Number);
+                            const [hh, mm] = tStr.split(':').map(Number);
+                            return new Date(y, m - 1, d, hh, mm).getTime();
+                        };
+                        valA = parseDt(a.datetime_brt);
+                        valB = parseDt(b.datetime_brt);
+                    }
+
+                    if (valA < valB) return currentSort.asc ? -1 : 1;
+                    if (valA > valB) return currentSort.asc ? 1 : -1;
+                    return 0;
+                });
+
+                let htmlRows = '';
+                filtered.forEach((m, idx) => {
+                    const catInfo = categoryMap[m.category] || { label: m.category || '', cls: 'cat-amador' };
+                    
+                    let timeHtml = '';
+                    if (currentTz === 'brt' || currentTz === 'both') {
+                        timeHtml += `<div class="time-badge brt">🇧🇷 ${m.datetime_brt || 'TBD'} (BRT)</div>`;
+                    }
+                    if (currentTz === 'local' || currentTz === 'both') {
+                        timeHtml += `<div class="time-badge local">🇻🇳 ${m.datetime_local || 'TBD'} (Vietnã)</div>`;
+                    }
+
+                    const isHighlightA = /brasil|flavio|renato|joão|barbara|claudio|samuel|juliane|isadora/i.test(m.teamA || '');
+
+                    htmlRows += `
+                        <tr>
+                            <td class="idx-col">${idx + 1}</td>
+                            <td>
+                                <div class="time-box">
+                                    ${timeHtml}
+                                </div>
+                            </td>
+                            <td>
+                                <span class="category-pill ${catInfo.cls}">
+                                    ${catInfo.label}
+                                </span>
+                            </td>
+                            <td>
+                                <span class="round-tag">${escapeHtml(m.round || '-')}</span>
+                            </td>
+                            <td>
+                                <div class="matchup-box">
+                                    <span class="team-name ${isHighlightA ? 'highlight' : ''}">${escapeHtml(m.teamA)}</span>
+                                    <span class="vs-badge">VS</span>
+                                    <span class="team-name">${escapeHtml(m.teamB)}</span>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="venue-box">
+                                    <span class="court-badge">📍 ${escapeHtml(m.court || 'Quadra A definir')}</span>
+                                    ${m.venue ? `<span class="venue-name">${escapeHtml(m.venue)}</span>` : ''}
+                                </div>
+                            </td>
+                        </tr>
+                    `;
+                });
+
+                if (tbody) tbody.innerHTML = htmlRows;
+            }
+
+            function setupEventListeners() {
+                const searchInput = document.getElementById('search-input');
+                if (searchInput) searchInput.addEventListener('input', renderTable);
+
+                const catSelect = document.getElementById('filter-category');
+                if (catSelect) catSelect.addEventListener('change', renderTable);
+
+                const venueSelect = document.getElementById('filter-venue');
+                if (venueSelect) venueSelect.addEventListener('change', renderTable);
+
+                const roundSelect = document.getElementById('filter-round');
+                if (roundSelect) roundSelect.addEventListener('change', renderTable);
+
+                const datePills = document.getElementById('date-pills-container');
+                if (datePills) {
+                    datePills.addEventListener('click', (e) => {
+                        const btn = e.target.closest('.date-pill');
+                        if (!btn) return;
+                        document.querySelectorAll('.date-pill').forEach(p => p.classList.remove('active'));
+                        btn.classList.add('active');
+                        renderTable();
+                    });
+                }
+
+                document.querySelectorAll('.tz-btn').forEach(btn => {
+                    btn.addEventListener('click', () => {
+                        document.querySelectorAll('.tz-btn').forEach(b => b.classList.remove('active'));
+                        btn.classList.add('active');
+                        currentTz = btn.dataset.tz;
+                        renderTable();
+                    });
+                });
+
+                const btnReset = document.getElementById('btn-reset');
+                if (btnReset) {
+                    btnReset.addEventListener('click', () => {
+                        if (searchInput) searchInput.value = '';
+                        if (catSelect) catSelect.value = 'all';
+                        if (venueSelect) venueSelect.value = 'all';
+                        if (roundSelect) roundSelect.value = 'all';
+                        document.querySelectorAll('.date-pill').forEach(p => p.classList.remove('active'));
+                        const allPill = document.querySelector('.date-pill[data-date="all"]');
+                        if (allPill) allPill.classList.add('active');
+                        renderTable();
+                    });
+                }
+
+                const btnExport = document.getElementById('btn-export');
+                if (btnExport) {
+                    btnExport.addEventListener('click', () => {
+                        const filtered = getFilteredData();
+                        if (filtered.length === 0) return;
+
+                        let csvContent = "data:text/csv;charset=utf-8,ID,Data_BRT,Horario_BRT,Data_Local,Horario_Local,Categoria,Rodada,Time_A,Time_B,Quadra,Local\n";
+                        filtered.forEach(m => {
+                            const row = [
+                                `"${m.id || ''}"`,
+                                `"${m.datetime_brt ? m.datetime_brt.split(' ')[0] : ''}"`,
+                                `"${m.time_brt || ''}"`,
+                                `"${m.datetime_local ? m.datetime_local.split(' ')[0] : ''}"`,
+                                `"${m.time_local || ''}"`,
+                                `"${m.category || ''}"`,
+                                `"${m.round || ''}"`,
+                                `"${m.teamA || ''}"`,
+                                `"${m.teamB || ''}"`,
+                                `"${m.court || ''}"`,
+                                `"${m.venue || ''}"`
+                            ].join(",");
+                            csvContent += row + "\n";
+                        });
+
+                        const encodedUri = encodeURI(csvContent);
+                        const link = document.createElement("a");
+                        link.setAttribute("href", encodedUri);
+                        link.setAttribute("download", "tabela_jogos_brasil_pickleball_2026.csv");
+                        document.body.appendChild(link);
+                        link.click();
+                        document.body.removeChild(link);
+                    });
+                }
+            }
+
+            function escapeHtml(str) {
+                if (!str) return '';
+                return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
+            }
+
+            setupEventListeners();
+        })();
+    </script>
+</body>
+</html>
