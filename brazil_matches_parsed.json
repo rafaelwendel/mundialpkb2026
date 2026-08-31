@@ -1,207 +1,207 @@
 [
   {
-    "id": "amateur_doubles_mens____amateur_doubles_mens_60+_\u00e2\u0089\u00a5_4.5__m7",
+    "id": "amateur_doubles_mens____amateur_doubles_mens_60+_≥_4.5__m7",
     "scheduledAt": "2026-08-31T11:45:00",
-    "court": "S\u00c3\u00a2n 15 \u00c2\u00b7 Court 15",
+    "court": "Quadra 15 · Court 15",
     "venue": "TRANG HOANG",
     "category": "amateur_doubles_mens",
     "round": "Round 1",
     "discipline": "",
-    "entryA": "{\"entryId\":\"AMDB1782080784837\",\"teamName\":\"Flavio de Saldanha da Gama de Moura / Claudio Fialdini\",\"seed\":6}",
-    "entryB": "",
-    "raw": "{\"id\":\"amateur_doubles_mens____amateur_doubles_mens_60+_\u00e2\u0089\u00a5_4.5__m7\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-08-31T11:45:00\",\"bracketId\":\"amateur_doubles_mens____amateur_doubles_mens_60+_\u00e2\u0089\u00a5_4.5\",\"categoryId\":\"amateur_doubles_mens\",\"divisionId\":\"amateur_doubles_mens_60+_\u00e2\u0089\u00a5_4.5\",\"divisionName\":\"60+"
+    "entryA": "{\"teamName\": \"Flavio de Saldanha da Gama de Moura / Claudio Fialdini\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"amateur_doubles_mens____amateur_doubles_mens_60+_≥_4.5__m7\", \"date\": \"2026-08-31\", \"time_local\": \"11:45\", \"time_brt\": \"01:45\", \"datetime_local\": \"31/08/2026 11:45\", \"datetime_brt\": \"31/08/2026 01:45\", \"category\": \"Amador - Duplas Masculinas\", \"raw_category\": \"amateur_doubles_mens\", \"round\": \"Round 1\", \"discipline\": \"\", \"teamA\": \"Flavio de Saldanha da Gama de Moura / Claudio Fialdini\", \"teamB\": \"Time B\", \"court\": \"Quadra 15 · Court 15\", \"venue\": \"TRANG HOANG\"}"
   },
   {
-    "id": "amateur_doubles_mens____amateur_doubles_mens_All Ages_\u00e2\u0089\u00a5_3.5__m35",
+    "id": "amateur_doubles_mens____amateur_doubles_mens_All Ages_≥_3.5__m35",
     "scheduledAt": "2026-08-31T08:50:00",
-    "court": "S\u00c3\u00a2n 12 \u00c2\u00b7 Court 12",
+    "court": "Quadra 12 · Court 12",
     "venue": "TRANG HOANG",
     "category": "amateur_doubles_mens",
     "round": "Round 3",
     "discipline": "",
-    "entryA": "{\"entryId\":\"AMDB1784038715061\",\"teamName\":\"Renato Dias de Azevedo / Samuel Medeiros de Azevedo\",\"seed\":11}",
-    "entryB": "",
-    "raw": "{\"id\":\"amateur_doubles_mens____amateur_doubles_mens_All Ages_\u00e2\u0089\u00a5_3.5__m35\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-08-31T08:50:00\",\"bracketId\":\"amateur_doubles_mens____amateur_doubles_mens_All Ages_\u00e2\u0089\u00a5_3.5\",\"categoryId\":\"amateur_doubles_mens\",\"divisionId\":\"amateur_doubles_mens_All Ages_\u00e2\u0089\u00a5_3.5\",\"di"
+    "entryA": "{\"teamName\": \"Renato Dias de Azevedo / Samuel Medeiros de Azevedo\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"amateur_doubles_mens____amateur_doubles_mens_All Ages_≥_3.5__m35\", \"date\": \"2026-08-31\", \"time_local\": \"08:50\", \"time_brt\": \"22:50\", \"datetime_local\": \"31/08/2026 08:50\", \"datetime_brt\": \"30/08/2026 22:50\", \"category\": \"Amador - Duplas Masculinas\", \"raw_category\": \"amateur_doubles_mens\", \"round\": \"Round 3\", \"discipline\": \"\", \"teamA\": \"Renato Dias de Azevedo / Samuel Medeiros de Azevedo\", \"teamB\": \"Time B\", \"court\": \"Quadra 12 · Court 12\", \"venue\": \"TRANG HOANG\"}"
   },
   {
-    "id": "amateur_mixed____amateur_mixed_40+_\u00e2\u0089\u00a5_3.5__m23",
+    "id": "amateur_mixed____amateur_mixed_40+_≥_3.5__m23",
     "scheduledAt": "2026-09-01T13:50:00",
-    "court": "S\u00c3\u00a2n 13 \u00c2\u00b7 Court 13",
+    "court": "Quadra 13 · Court 13",
     "venue": "TRANG HOANG",
     "category": "amateur_mixed",
     "round": "Round 3",
     "discipline": "",
-    "entryA": "{\"entryId\":\"seed_11c5932f0a2f\",\"teamName\":\"Renato Dias de Azevedo / Juliane Quezia Avelino Medeiros de Azevedo\",\"seed\":5}",
-    "entryB": "",
-    "raw": "{\"id\":\"amateur_mixed____amateur_mixed_40+_\u00e2\u0089\u00a5_3.5__m23\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-01T13:50:00\",\"bracketId\":\"amateur_mixed____amateur_mixed_40+_\u00e2\u0089\u00a5_3.5\",\"categoryId\":\"amateur_mixed\",\"divisionId\":\"amateur_mixed_40+_\u00e2\u0089\u00a5_3.5\",\"divisionName\":\"40+\",\"roundName\":\"Round 3\",\"roundNum\":3,\"gro"
+    "entryA": "{\"teamName\": \"Renato Dias de Azevedo / Juliane Quezia Avelino Medeiros de Azevedo\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"amateur_mixed____amateur_mixed_40+_≥_3.5__m23\", \"date\": \"2026-09-01\", \"time_local\": \"13:50\", \"time_brt\": \"03:50\", \"datetime_local\": \"01/09/2026 13:50\", \"datetime_brt\": \"01/09/2026 03:50\", \"category\": \"Amador - Duplas Mistas\", \"raw_category\": \"amateur_mixed\", \"round\": \"Round 3\", \"discipline\": \"\", \"teamA\": \"Renato Dias de Azevedo / Juliane Quezia Avelino Medeiros de Azevedo\", \"teamB\": \"Time B\", \"court\": \"Quadra 13 · Court 13\", \"venue\": \"TRANG HOANG\"}"
   },
   {
-    "id": "amateur_mixed____amateur_mixed_60+_\u00e2\u0089\u00a5_4.5__m17",
+    "id": "amateur_mixed____amateur_mixed_60+_≥_4.5__m17",
     "scheduledAt": "2026-09-01T12:35:00",
-    "court": "S\u00c3\u00a2n 8 \u00c2\u00b7 Court 8",
+    "court": "Quadra 8 · Court 8",
     "venue": "HOP THANH PHAT",
     "category": "amateur_mixed",
     "round": "Round 3",
     "discipline": "",
-    "entryA": "{\"entryId\":\"AMMX1783546425703\",\"teamName\":\"Flavio de Saldanha da Gama de Moura / Deborahgebara\",\"seed\":6}",
-    "entryB": "",
-    "raw": "{\"id\":\"amateur_mixed____amateur_mixed_60+_\u00e2\u0089\u00a5_4.5__m17\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-01T12:35:00\",\"bracketId\":\"amateur_mixed____amateur_mixed_60+_\u00e2\u0089\u00a5_4.5\",\"categoryId\":\"amateur_mixed\",\"divisionId\":\"amateur_mixed_60+_\u00e2\u0089\u00a5_4.5\",\"divisionName\":\"60+\",\"roundName\":\"Round 3\",\"roundNum\":3,\"gro"
+    "entryA": "{\"teamName\": \"Flavio de Saldanha da Gama de Moura / Deborahgebara\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"amateur_mixed____amateur_mixed_60+_≥_4.5__m17\", \"date\": \"2026-09-01\", \"time_local\": \"12:35\", \"time_brt\": \"02:35\", \"datetime_local\": \"01/09/2026 12:35\", \"datetime_brt\": \"01/09/2026 02:35\", \"category\": \"Amador - Duplas Mistas\", \"raw_category\": \"amateur_mixed\", \"round\": \"Round 3\", \"discipline\": \"\", \"teamA\": \"Flavio de Saldanha da Gama de Moura / Deborahgebara\", \"teamB\": \"Time B\", \"court\": \"Quadra 8 · Court 8\", \"venue\": \"HOP THANH PHAT\"}"
   },
   {
     "id": "junior_doubles_boys____junior_doubles_boys_18_under__m23",
     "scheduledAt": "2026-09-06T10:05:00",
-    "court": "S\u00c3\u00a2n 10 \u00c2\u00b7 Court 10",
+    "court": "Quadra 10 · Court 10",
     "venue": "TRANG HOANG",
     "category": "junior_doubles_boys",
     "round": "Round 3",
     "discipline": "",
-    "entryA": "{\"entryId\":\"BWtse9h6mGB7KPR4dDKv\",\"teamName\":\"Jo\u00c3\u00a3o Pedro Agulha Fernandes / Jo\u00c3\u00a3o Pedro Jakobovitsch Costa\",\"seed\":7}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_doubles_boys____junior_doubles_boys_18_under__m23\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-06T10:05:00\",\"bracketId\":\"junior_doubles_boys____junior_doubles_boys_18_under\",\"categoryId\":\"junior_doubles_boys\",\"divisionId\":\"junior_doubles_boys_18_under\",\"divisionName\":\"18 under\",\"roundN"
+    "entryA": "{\"teamName\": \"João Pedro Agulha Fernandes / João Pedro Jakobovitsch Costa\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_doubles_boys____junior_doubles_boys_18_under__m23\", \"date\": \"2026-09-06\", \"time_local\": \"10:05\", \"time_brt\": \"00:05\", \"datetime_local\": \"06/09/2026 10:05\", \"datetime_brt\": \"06/09/2026 00:05\", \"category\": \"Sub-16/18 - Duplas Masculinas Junior\", \"raw_category\": \"junior_doubles_boys\", \"round\": \"Round 3\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes / João Pedro Jakobovitsch Costa\", \"teamB\": \"Time B\", \"court\": \"Quadra 10 · Court 10\", \"venue\": \"TRANG HOANG\"}"
   },
   {
     "id": "junior_doubles_girls____junior_doubles_girls_16_under__m11",
     "scheduledAt": "2026-09-06T11:20:00",
-    "court": "S\u00c3\u00a2n 6 \u00c2\u00b7 Court 6",
+    "court": "Quadra 6 · Court 6",
     "venue": "TRANG HOANG",
     "category": "junior_doubles_girls",
     "round": "Round 4",
     "discipline": "",
-    "entryA": "{\"entryId\":\"JUDB1783811371535\",\"teamName\":\"Barbara Gomes / Carolina Boson Chomko\",\"seed\":2}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_doubles_girls____junior_doubles_girls_16_under__m11\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-06T11:20:00\",\"bracketId\":\"junior_doubles_girls____junior_doubles_girls_16_under\",\"categoryId\":\"junior_doubles_girls\",\"divisionId\":\"junior_doubles_girls_16_under\",\"divisionName\":\"16 under\",\""
+    "entryA": "{\"teamName\": \"Barbara Gomes / Carolina Boson Chomko\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_doubles_girls____junior_doubles_girls_16_under__m11\", \"date\": \"2026-09-06\", \"time_local\": \"11:20\", \"time_brt\": \"01:20\", \"datetime_local\": \"06/09/2026 11:20\", \"datetime_brt\": \"06/09/2026 01:20\", \"category\": \"Sub-16/18 - Duplas Femininas Junior\", \"raw_category\": \"junior_doubles_girls\", \"round\": \"Round 4\", \"discipline\": \"\", \"teamA\": \"Barbara Gomes / Carolina Boson Chomko\", \"teamB\": \"Time B\", \"court\": \"Quadra 6 · Court 6\", \"venue\": \"TRANG HOANG\"}"
   },
   {
     "id": "junior_doubles_girls____junior_doubles_girls_16_under__m13",
     "scheduledAt": "2026-09-06T11:45:00",
-    "court": "S\u00c3\u00a2n 6 \u00c2\u00b7 Court 6",
+    "court": "Quadra 6 · Court 6",
     "venue": "TRANG HOANG",
     "category": "junior_doubles_girls",
     "round": "Round 5",
     "discipline": "",
-    "entryA": "{\"entryId\":\"JUDB1783811371535\",\"teamName\":\"Barbara Gomes / Carolina Boson Chomko\",\"seed\":2}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_doubles_girls____junior_doubles_girls_16_under__m13\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-06T11:45:00\",\"bracketId\":\"junior_doubles_girls____junior_doubles_girls_16_under\",\"categoryId\":\"junior_doubles_girls\",\"divisionId\":\"junior_doubles_girls_16_under\",\"divisionName\":\"16 under\",\""
+    "entryA": "{\"teamName\": \"Barbara Gomes / Carolina Boson Chomko\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_doubles_girls____junior_doubles_girls_16_under__m13\", \"date\": \"2026-09-06\", \"time_local\": \"11:45\", \"time_brt\": \"01:45\", \"datetime_local\": \"06/09/2026 11:45\", \"datetime_brt\": \"06/09/2026 01:45\", \"category\": \"Sub-16/18 - Duplas Femininas Junior\", \"raw_category\": \"junior_doubles_girls\", \"round\": \"Round 5\", \"discipline\": \"\", \"teamA\": \"Barbara Gomes / Carolina Boson Chomko\", \"teamB\": \"Time B\", \"court\": \"Quadra 6 · Court 6\", \"venue\": \"TRANG HOANG\"}"
   },
   {
     "id": "junior_mixed____junior_mixed_18_under__m32",
     "scheduledAt": "2026-09-03T11:20:00",
-    "court": "S\u00c3\u00a2n 11 \u00c2\u00b7 Court 11",
+    "court": "Quadra 11 · Court 11",
     "venue": "TRUONG SON",
     "category": "junior_mixed",
     "round": "Round 4",
     "discipline": "",
-    "entryA": "{\"entryId\":\"JUMX1783985238327\",\"teamName\":\"Jo\u00c3\u00a3o Pedro Agulha Fernandes / Isadora Campi\",\"seed\":14}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_mixed____junior_mixed_18_under__m32\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T11:20:00\",\"bracketId\":\"junior_mixed____junior_mixed_18_under\",\"categoryId\":\"junior_mixed\",\"divisionId\":\"junior_mixed_18_under\",\"divisionName\":\"18 under\",\"roundName\":\"Round 4\",\"roundNum\":4,\"groupId\":\"D\","
+    "entryA": "{\"teamName\": \"João Pedro Agulha Fernandes / Isadora Campi\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_mixed____junior_mixed_18_under__m32\", \"date\": \"2026-09-03\", \"time_local\": \"11:20\", \"time_brt\": \"01:20\", \"datetime_local\": \"03/09/2026 11:20\", \"datetime_brt\": \"03/09/2026 01:20\", \"category\": \"Sub-18 - Duplas Mistas Junior\", \"raw_category\": \"junior_mixed\", \"round\": \"Round 4\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes / Isadora Campi\", \"teamB\": \"Time B\", \"court\": \"Quadra 11 · Court 11\", \"venue\": \"TRUONG SON\"}"
   },
   {
     "id": "junior_mixed____junior_mixed_18_under__m33",
     "scheduledAt": "2026-09-03T11:45:00",
-    "court": "S\u00c3\u00a2n 11 \u00c2\u00b7 Court 11",
+    "court": "Quadra 11 · Court 11",
     "venue": "TRUONG SON",
     "category": "junior_mixed",
     "round": "Round 5",
     "discipline": "",
-    "entryA": "{\"entryId\":\"JUMX1783985238327\",\"teamName\":\"Jo\u00c3\u00a3o Pedro Agulha Fernandes / Isadora Campi\",\"seed\":14}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_mixed____junior_mixed_18_under__m33\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T11:45:00\",\"bracketId\":\"junior_mixed____junior_mixed_18_under\",\"categoryId\":\"junior_mixed\",\"divisionId\":\"junior_mixed_18_under\",\"divisionName\":\"18 under\",\"roundName\":\"Round 5\",\"roundNum\":5,\"groupId\":\"D\","
+    "entryA": "{\"teamName\": \"João Pedro Agulha Fernandes / Isadora Campi\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_mixed____junior_mixed_18_under__m33\", \"date\": \"2026-09-03\", \"time_local\": \"11:45\", \"time_brt\": \"01:45\", \"datetime_local\": \"03/09/2026 11:45\", \"datetime_brt\": \"03/09/2026 01:45\", \"category\": \"Sub-18 - Duplas Mistas Junior\", \"raw_category\": \"junior_mixed\", \"round\": \"Round 5\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes / Isadora Campi\", \"teamB\": \"Time B\", \"court\": \"Quadra 11 · Court 11\", \"venue\": \"TRUONG SON\"}"
   },
   {
     "id": "junior_mixed____junior_mixed_18_under__m34",
     "scheduledAt": "2026-09-03T12:10:00",
-    "court": "S\u00c3\u00a2n 11 \u00c2\u00b7 Court 11",
+    "court": "Quadra 11 · Court 11",
     "venue": "TRUONG SON",
     "category": "junior_mixed",
     "round": "Round 6",
     "discipline": "",
-    "entryA": "{\"entryId\":\"JUMX1783985238327\",\"teamName\":\"Jo\u00c3\u00a3o Pedro Agulha Fernandes / Isadora Campi\",\"seed\":14}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_mixed____junior_mixed_18_under__m34\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T12:10:00\",\"bracketId\":\"junior_mixed____junior_mixed_18_under\",\"categoryId\":\"junior_mixed\",\"divisionId\":\"junior_mixed_18_under\",\"divisionName\":\"18 under\",\"roundName\":\"Round 6\",\"roundNum\":6,\"groupId\":\"D\","
+    "entryA": "{\"teamName\": \"João Pedro Agulha Fernandes / Isadora Campi\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_mixed____junior_mixed_18_under__m34\", \"date\": \"2026-09-03\", \"time_local\": \"12:10\", \"time_brt\": \"02:10\", \"datetime_local\": \"03/09/2026 12:10\", \"datetime_brt\": \"03/09/2026 02:10\", \"category\": \"Sub-18 - Duplas Mistas Junior\", \"raw_category\": \"junior_mixed\", \"round\": \"Round 6\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes / Isadora Campi\", \"teamB\": \"Time B\", \"court\": \"Quadra 11 · Court 11\", \"venue\": \"TRUONG SON\"}"
   },
   {
     "id": "junior_mixed____junior_mixed_18_under__m35",
     "scheduledAt": "2026-09-03T12:35:00",
-    "court": "S\u00c3\u00a2n 11 \u00c2\u00b7 Court 11",
+    "court": "Quadra 11 · Court 11",
     "venue": "TRUONG SON",
     "category": "junior_mixed",
     "round": "Round 7",
     "discipline": "",
-    "entryA": "{\"entryId\":\"JUMX1783985238327\",\"teamName\":\"Jo\u00c3\u00a3o Pedro Agulha Fernandes / Isadora Campi\",\"seed\":14}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_mixed____junior_mixed_18_under__m35\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T12:35:00\",\"bracketId\":\"junior_mixed____junior_mixed_18_under\",\"categoryId\":\"junior_mixed\",\"divisionId\":\"junior_mixed_18_under\",\"divisionName\":\"18 under\",\"roundName\":\"Round 7\",\"roundNum\":7,\"groupId\":\"D\","
+    "entryA": "{\"teamName\": \"João Pedro Agulha Fernandes / Isadora Campi\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_mixed____junior_mixed_18_under__m35\", \"date\": \"2026-09-03\", \"time_local\": \"12:35\", \"time_brt\": \"02:35\", \"datetime_local\": \"03/09/2026 12:35\", \"datetime_brt\": \"03/09/2026 02:35\", \"category\": \"Sub-18 - Duplas Mistas Junior\", \"raw_category\": \"junior_mixed\", \"round\": \"Round 7\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes / Isadora Campi\", \"teamB\": \"Time B\", \"court\": \"Quadra 11 · Court 11\", \"venue\": \"TRUONG SON\"}"
   },
   {
     "id": "junior_mixed____junior_mixed_18_under__m7",
     "scheduledAt": "2026-09-03T09:15:00",
-    "court": "S\u00c3\u00a2n 8 \u00c2\u00b7 Court 8",
+    "court": "Quadra 8 · Court 8",
     "venue": "TRUONG SON",
     "category": "junior_mixed",
     "round": "Round 1",
     "discipline": "",
-    "entryA": "{\"entryId\":\"JUMX1783787923839\",\"teamName\":\"Barbara Gomes / Maciel Batista da Silva\",\"seed\":10}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_mixed____junior_mixed_18_under__m7\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T09:15:00\",\"bracketId\":\"junior_mixed____junior_mixed_18_under\",\"categoryId\":\"junior_mixed\",\"divisionId\":\"junior_mixed_18_under\",\"divisionName\":\"18 under\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"B\",\""
+    "entryA": "{\"teamName\": \"Barbara Gomes / Maciel Batista da Silva\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_mixed____junior_mixed_18_under__m7\", \"date\": \"2026-09-03\", \"time_local\": \"09:15\", \"time_brt\": \"23:15\", \"datetime_local\": \"03/09/2026 09:15\", \"datetime_brt\": \"02/09/2026 23:15\", \"category\": \"Sub-18 - Duplas Mistas Junior\", \"raw_category\": \"junior_mixed\", \"round\": \"Round 1\", \"discipline\": \"\", \"teamA\": \"Barbara Gomes / Maciel Batista da Silva\", \"teamB\": \"Time B\", \"court\": \"Quadra 8 · Court 8\", \"venue\": \"TRUONG SON\"}"
   },
   {
     "id": "junior_singles_boys____junior_singles_boys_16_under__m0",
     "scheduledAt": "2026-09-05T08:00:00",
-    "court": "S\u00c3\u00a2n 11 \u00c2\u00b7 A3",
+    "court": "Quadra 11 · A3",
     "venue": "TUYEN SON",
     "category": "junior_singles_boys",
     "round": "Round 1",
     "discipline": "",
-    "entryA": "{\"entryId\":\"wGkg50r63rGwu2V4wU9w\",\"teamName\":\"Jo\u00c3\u00a3o Pedro Agulha Fernandes\",\"seed\":1}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_singles_boys____junior_singles_boys_16_under__m0\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-05T08:00:00\",\"bracketId\":\"junior_singles_boys____junior_singles_boys_16_under\",\"categoryId\":\"junior_singles_boys\",\"divisionId\":\"junior_singles_boys_16_under\",\"divisionName\":\"16 under\",\"roundNa"
+    "entryA": "{\"teamName\": \"João Pedro Agulha Fernandes\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_singles_boys____junior_singles_boys_16_under__m0\", \"date\": \"2026-09-05\", \"time_local\": \"08:00\", \"time_brt\": \"22:00\", \"datetime_local\": \"05/09/2026 08:00\", \"datetime_brt\": \"04/09/2026 22:00\", \"category\": \"Sub-18 - Simples Masculino Junior\", \"raw_category\": \"junior_singles_boys\", \"round\": \"Round 1\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes\", \"teamB\": \"Time B\", \"court\": \"Quadra 11 · A3\", \"venue\": \"TUYEN SON\"}"
   },
   {
     "id": "junior_singles_boys____junior_singles_boys_16_under__m2",
     "scheduledAt": "2026-09-05T08:25:00",
-    "court": "S\u00c3\u00a2n 11 \u00c2\u00b7 A3",
+    "court": "Quadra 11 · A3",
     "venue": "TUYEN SON",
     "category": "junior_singles_boys",
     "round": "Round 2",
     "discipline": "",
-    "entryA": "{\"entryId\":\"wGkg50r63rGwu2V4wU9w\",\"teamName\":\"Jo\u00c3\u00a3o Pedro Agulha Fernandes\",\"seed\":1}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_singles_boys____junior_singles_boys_16_under__m2\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-05T08:25:00\",\"bracketId\":\"junior_singles_boys____junior_singles_boys_16_under\",\"categoryId\":\"junior_singles_boys\",\"divisionId\":\"junior_singles_boys_16_under\",\"divisionName\":\"16 under\",\"roundNa"
+    "entryA": "{\"teamName\": \"João Pedro Agulha Fernandes\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_singles_boys____junior_singles_boys_16_under__m2\", \"date\": \"2026-09-05\", \"time_local\": \"08:25\", \"time_brt\": \"22:25\", \"datetime_local\": \"05/09/2026 08:25\", \"datetime_brt\": \"04/09/2026 22:25\", \"category\": \"Sub-18 - Simples Masculino Junior\", \"raw_category\": \"junior_singles_boys\", \"round\": \"Round 2\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes\", \"teamB\": \"Time B\", \"court\": \"Quadra 11 · A3\", \"venue\": \"TUYEN SON\"}"
   },
   {
     "id": "junior_singles_girls____junior_singles_girls_18_under__m0",
     "scheduledAt": "2026-09-05T09:15:00",
-    "court": "S\u00c3\u00a2n 15 \u00c2\u00b7 A7",
+    "court": "Quadra 15 · A7",
     "venue": "TUYEN SON",
     "category": "junior_singles_girls",
     "round": "Round 1",
     "discipline": "",
-    "entryA": "{\"entryId\":\"JUSG1784857072515\",\"teamName\":\"Isadora Campi\",\"seed\":1}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_singles_girls____junior_singles_girls_18_under__m0\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-05T09:15:00\",\"bracketId\":\"junior_singles_girls____junior_singles_girls_18_under\",\"categoryId\":\"junior_singles_girls\",\"divisionId\":\"junior_singles_girls_18_under\",\"divisionName\":\"18 under\",\"r"
+    "entryA": "{\"teamName\": \"Isadora Campi\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_singles_girls____junior_singles_girls_18_under__m0\", \"date\": \"2026-09-05\", \"time_local\": \"09:15\", \"time_brt\": \"23:15\", \"datetime_local\": \"05/09/2026 09:15\", \"datetime_brt\": \"04/09/2026 23:15\", \"category\": \"Sub-18 - Simples Feminino Junior\", \"raw_category\": \"junior_singles_girls\", \"round\": \"Round 1\", \"discipline\": \"\", \"teamA\": \"Isadora Campi\", \"teamB\": \"Time B\", \"court\": \"Quadra 15 · A7\", \"venue\": \"TUYEN SON\"}"
   },
   {
     "id": "junior_singles_girls____junior_singles_girls_18_under__m2",
     "scheduledAt": "2026-09-05T09:40:00",
-    "court": "S\u00c3\u00a2n 15 \u00c2\u00b7 A7",
+    "court": "Quadra 15 · A7",
     "venue": "TUYEN SON",
     "category": "junior_singles_girls",
     "round": "Round 2",
     "discipline": "",
-    "entryA": "{\"entryId\":\"JUSG1784857072515\",\"teamName\":\"Isadora Campi\",\"seed\":1}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_singles_girls____junior_singles_girls_18_under__m2\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-05T09:40:00\",\"bracketId\":\"junior_singles_girls____junior_singles_girls_18_under\",\"categoryId\":\"junior_singles_girls\",\"divisionId\":\"junior_singles_girls_18_under\",\"divisionName\":\"18 under\",\"r"
+    "entryA": "{\"teamName\": \"Isadora Campi\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_singles_girls____junior_singles_girls_18_under__m2\", \"date\": \"2026-09-05\", \"time_local\": \"09:40\", \"time_brt\": \"23:40\", \"datetime_local\": \"05/09/2026 09:40\", \"datetime_brt\": \"04/09/2026 23:40\", \"category\": \"Sub-18 - Simples Feminino Junior\", \"raw_category\": \"junior_singles_girls\", \"round\": \"Round 2\", \"discipline\": \"\", \"teamA\": \"Isadora Campi\", \"teamB\": \"Time B\", \"court\": \"Quadra 15 · A7\", \"venue\": \"TUYEN SON\"}"
   },
   {
     "id": "junior_singles_girls____junior_singles_girls_18_under__m4",
     "scheduledAt": "2026-09-05T10:05:00",
-    "court": "S\u00c3\u00a2n 15 \u00c2\u00b7 A7",
+    "court": "Quadra 15 · A7",
     "venue": "TUYEN SON",
     "category": "junior_singles_girls",
     "round": "Round 3",
     "discipline": "",
-    "entryA": "{\"entryId\":\"JUSG1784857072515\",\"teamName\":\"Isadora Campi\",\"seed\":1}",
-    "entryB": "",
-    "raw": "{\"id\":\"junior_singles_girls____junior_singles_girls_18_under__m4\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-05T10:05:00\",\"bracketId\":\"junior_singles_girls____junior_singles_girls_18_under\",\"categoryId\":\"junior_singles_girls\",\"divisionId\":\"junior_singles_girls_18_under\",\"divisionName\":\"18 under\",\"r"
+    "entryA": "{\"teamName\": \"Isadora Campi\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"junior_singles_girls____junior_singles_girls_18_under__m4\", \"date\": \"2026-09-05\", \"time_local\": \"10:05\", \"time_brt\": \"00:05\", \"datetime_local\": \"05/09/2026 10:05\", \"datetime_brt\": \"05/09/2026 00:05\", \"category\": \"Sub-18 - Simples Feminino Junior\", \"raw_category\": \"junior_singles_girls\", \"round\": \"Round 3\", \"discipline\": \"\", \"teamA\": \"Isadora Campi\", \"teamB\": \"Time B\", \"court\": \"Quadra 15 · A7\", \"venue\": \"TUYEN SON\"}"
   },
   {
     "id": "juniors_team_coed____default__m23__sub-FB",
@@ -211,9 +211,9 @@
     "category": "juniors_team_coed",
     "round": "Round 1",
     "discipline": "Final Battle",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"juniors_team_coed____default__m23__sub-FB\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T15:36:00\",\"bracketId\":\"juniors_team_coed____default\",\"categoryId\":\"juniors_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"juniors_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"D\","
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"juniors_team_coed____default__m23__sub-FB\", \"date\": \"2026-09-04\", \"time_local\": \"15:36\", \"time_brt\": \"05:36\", \"datetime_local\": \"04/09/2026 15:36\", \"datetime_brt\": \"04/09/2026 05:36\", \"category\": \"Cúp Thế Giới - Juniors Team (Sub-18)\", \"raw_category\": \"juniors_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Final Battle\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "juniors_team_coed____default__m23__sub-MD",
@@ -222,10 +222,10 @@
     "venue": "",
     "category": "juniors_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"juniors_team_coed____default__m23__sub-MD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T14:24:00\",\"bracketId\":\"juniors_team_coed____default\",\"categoryId\":\"juniors_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"juniors_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"D\","
+    "discipline": "Duplas Masculinas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"juniors_team_coed____default__m23__sub-MD\", \"date\": \"2026-09-04\", \"time_local\": \"14:24\", \"time_brt\": \"04:24\", \"datetime_local\": \"04/09/2026 14:24\", \"datetime_brt\": \"04/09/2026 04:24\", \"category\": \"Cúp Thế Giới - Juniors Team (Sub-18)\", \"raw_category\": \"juniors_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Masculinas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "juniors_team_coed____default__m23__sub-WD",
@@ -234,10 +234,10 @@
     "venue": "",
     "category": "juniors_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i N\u00e1\u00bb\u00af",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"juniors_team_coed____default__m23__sub-WD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T14:00:00\",\"bracketId\":\"juniors_team_coed____default\",\"categoryId\":\"juniors_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"juniors_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"D\","
+    "discipline": "Duplas Femininas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"juniors_team_coed____default__m23__sub-WD\", \"date\": \"2026-09-04\", \"time_local\": \"14:00\", \"time_brt\": \"04:00\", \"datetime_local\": \"04/09/2026 14:00\", \"datetime_brt\": \"04/09/2026 04:00\", \"category\": \"Cúp Thế Giới - Juniors Team (Sub-18)\", \"raw_category\": \"juniors_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Femininas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "juniors_team_coed____default__m23__sub-XD-1",
@@ -246,10 +246,10 @@
     "venue": "",
     "category": "juniors_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 1",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"juniors_team_coed____default__m23__sub-XD-1\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T14:48:00\",\"bracketId\":\"juniors_team_coed____default\",\"categoryId\":\"juniors_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"juniors_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"D"
+    "discipline": "Duplas Mistas 1",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"juniors_team_coed____default__m23__sub-XD-1\", \"date\": \"2026-09-04\", \"time_local\": \"14:48\", \"time_brt\": \"04:48\", \"datetime_local\": \"04/09/2026 14:48\", \"datetime_brt\": \"04/09/2026 04:48\", \"category\": \"Cúp Thế Giới - Juniors Team (Sub-18)\", \"raw_category\": \"juniors_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Mistas 1\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "juniors_team_coed____default__m23__sub-XD-2",
@@ -258,10 +258,10 @@
     "venue": "",
     "category": "juniors_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 2",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"juniors_team_coed____default__m23__sub-XD-2\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T15:12:00\",\"bracketId\":\"juniors_team_coed____default\",\"categoryId\":\"juniors_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"juniors_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"D"
+    "discipline": "Duplas Mistas 2",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"juniors_team_coed____default__m23__sub-XD-2\", \"date\": \"2026-09-04\", \"time_local\": \"15:12\", \"time_brt\": \"05:12\", \"datetime_local\": \"04/09/2026 15:12\", \"datetime_brt\": \"04/09/2026 05:12\", \"category\": \"Cúp Thế Giới - Juniors Team (Sub-18)\", \"raw_category\": \"juniors_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Mistas 2\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "kids_team_coed____default__m6__sub-FB",
@@ -271,9 +271,9 @@
     "category": "kids_team_coed",
     "round": "Round 3",
     "discipline": "Final Battle",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"kids_team_coed____default__m6__sub-FB\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T11:36:00\",\"bracketId\":\"kids_team_coed____default\",\"categoryId\":\"kids_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"kids_team_coed / default\",\"roundName\":\"Round 3\",\"roundNum\":3,\"groupId\":\"B\",\"matchIndex\":"
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"kids_team_coed____default__m6__sub-FB\", \"date\": \"2026-09-04\", \"time_local\": \"11:36\", \"time_brt\": \"01:36\", \"datetime_local\": \"04/09/2026 11:36\", \"datetime_brt\": \"04/09/2026 01:36\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"Round 3\", \"discipline\": \"Final Battle\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "kids_team_coed____default__m6__sub-MD",
@@ -282,10 +282,10 @@
     "venue": "",
     "category": "kids_team_coed",
     "round": "Round 3",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"kids_team_coed____default__m6__sub-MD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T10:24:00\",\"bracketId\":\"kids_team_coed____default\",\"categoryId\":\"kids_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"kids_team_coed / default\",\"roundName\":\"Round 3\",\"roundNum\":3,\"groupId\":\"B\",\"matchIndex\":"
+    "discipline": "Duplas Masculinas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"kids_team_coed____default__m6__sub-MD\", \"date\": \"2026-09-04\", \"time_local\": \"10:24\", \"time_brt\": \"00:24\", \"datetime_local\": \"04/09/2026 10:24\", \"datetime_brt\": \"04/09/2026 00:24\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"Round 3\", \"discipline\": \"Duplas Masculinas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "kids_team_coed____default__m6__sub-WD",
@@ -294,10 +294,10 @@
     "venue": "",
     "category": "kids_team_coed",
     "round": "Round 3",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i N\u00e1\u00bb\u00af",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"kids_team_coed____default__m6__sub-WD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T10:00:00\",\"bracketId\":\"kids_team_coed____default\",\"categoryId\":\"kids_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"kids_team_coed / default\",\"roundName\":\"Round 3\",\"roundNum\":3,\"groupId\":\"B\",\"matchIndex\":"
+    "discipline": "Duplas Femininas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"kids_team_coed____default__m6__sub-WD\", \"date\": \"2026-09-04\", \"time_local\": \"10:00\", \"time_brt\": \"00:00\", \"datetime_local\": \"04/09/2026 10:00\", \"datetime_brt\": \"04/09/2026 00:00\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"Round 3\", \"discipline\": \"Duplas Femininas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "kids_team_coed____default__m6__sub-XD-1",
@@ -306,10 +306,10 @@
     "venue": "",
     "category": "kids_team_coed",
     "round": "Round 3",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 1",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"kids_team_coed____default__m6__sub-XD-1\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T10:48:00\",\"bracketId\":\"kids_team_coed____default\",\"categoryId\":\"kids_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"kids_team_coed / default\",\"roundName\":\"Round 3\",\"roundNum\":3,\"groupId\":\"B\",\"matchIndex"
+    "discipline": "Duplas Mistas 1",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"kids_team_coed____default__m6__sub-XD-1\", \"date\": \"2026-09-04\", \"time_local\": \"10:48\", \"time_brt\": \"00:48\", \"datetime_local\": \"04/09/2026 10:48\", \"datetime_brt\": \"04/09/2026 00:48\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"Round 3\", \"discipline\": \"Duplas Mistas 1\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "kids_team_coed____default__m6__sub-XD-2",
@@ -318,10 +318,10 @@
     "venue": "",
     "category": "kids_team_coed",
     "round": "Round 3",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 2",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"kids_team_coed____default__m6__sub-XD-2\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T11:12:00\",\"bracketId\":\"kids_team_coed____default\",\"categoryId\":\"kids_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"kids_team_coed / default\",\"roundName\":\"Round 3\",\"roundNum\":3,\"groupId\":\"B\",\"matchIndex"
+    "discipline": "Duplas Mistas 2",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"kids_team_coed____default__m6__sub-XD-2\", \"date\": \"2026-09-04\", \"time_local\": \"11:12\", \"time_brt\": \"01:12\", \"datetime_local\": \"04/09/2026 11:12\", \"datetime_brt\": \"04/09/2026 01:12\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"Round 3\", \"discipline\": \"Duplas Mistas 2\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "kids_team_coed____default__m8__sub-FB",
@@ -331,9 +331,9 @@
     "category": "kids_team_coed",
     "round": "Round 2",
     "discipline": "Final Battle",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"kids_team_coed____default__m8__sub-FB\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T09:36:00\",\"bracketId\":\"kids_team_coed____default\",\"categoryId\":\"kids_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"kids_team_coed / default\",\"roundName\":\"Round 2\",\"roundNum\":2,\"groupId\":\"B\",\"matchIndex\":"
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"kids_team_coed____default__m8__sub-FB\", \"date\": \"2026-09-04\", \"time_local\": \"09:36\", \"time_brt\": \"23:36\", \"datetime_local\": \"04/09/2026 09:36\", \"datetime_brt\": \"03/09/2026 23:36\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"Round 2\", \"discipline\": \"Final Battle\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "kids_team_coed____default__m8__sub-MD",
@@ -342,10 +342,10 @@
     "venue": "",
     "category": "kids_team_coed",
     "round": "Round 2",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"kids_team_coed____default__m8__sub-MD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T08:24:00\",\"bracketId\":\"kids_team_coed____default\",\"categoryId\":\"kids_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"kids_team_coed / default\",\"roundName\":\"Round 2\",\"roundNum\":2,\"groupId\":\"B\",\"matchIndex\":"
+    "discipline": "Duplas Masculinas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"kids_team_coed____default__m8__sub-MD\", \"date\": \"2026-09-04\", \"time_local\": \"08:24\", \"time_brt\": \"22:24\", \"datetime_local\": \"04/09/2026 08:24\", \"datetime_brt\": \"03/09/2026 22:24\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"Round 2\", \"discipline\": \"Duplas Masculinas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "kids_team_coed____default__m8__sub-WD",
@@ -354,10 +354,10 @@
     "venue": "",
     "category": "kids_team_coed",
     "round": "Round 2",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i N\u00e1\u00bb\u00af",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"kids_team_coed____default__m8__sub-WD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T08:00:00\",\"bracketId\":\"kids_team_coed____default\",\"categoryId\":\"kids_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"kids_team_coed / default\",\"roundName\":\"Round 2\",\"roundNum\":2,\"groupId\":\"B\",\"matchIndex\":"
+    "discipline": "Duplas Femininas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"kids_team_coed____default__m8__sub-WD\", \"date\": \"2026-09-04\", \"time_local\": \"08:00\", \"time_brt\": \"22:00\", \"datetime_local\": \"04/09/2026 08:00\", \"datetime_brt\": \"03/09/2026 22:00\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"Round 2\", \"discipline\": \"Duplas Femininas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "kids_team_coed____default__m8__sub-XD-1",
@@ -366,10 +366,10 @@
     "venue": "",
     "category": "kids_team_coed",
     "round": "Round 2",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 1",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"kids_team_coed____default__m8__sub-XD-1\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T08:48:00\",\"bracketId\":\"kids_team_coed____default\",\"categoryId\":\"kids_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"kids_team_coed / default\",\"roundName\":\"Round 2\",\"roundNum\":2,\"groupId\":\"B\",\"matchIndex"
+    "discipline": "Duplas Mistas 1",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"kids_team_coed____default__m8__sub-XD-1\", \"date\": \"2026-09-04\", \"time_local\": \"08:48\", \"time_brt\": \"22:48\", \"datetime_local\": \"04/09/2026 08:48\", \"datetime_brt\": \"03/09/2026 22:48\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"Round 2\", \"discipline\": \"Duplas Mistas 1\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "kids_team_coed____default__m8__sub-XD-2",
@@ -378,10 +378,10 @@
     "venue": "",
     "category": "kids_team_coed",
     "round": "Round 2",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 2",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"kids_team_coed____default__m8__sub-XD-2\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T09:12:00\",\"bracketId\":\"kids_team_coed____default\",\"categoryId\":\"kids_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"kids_team_coed / default\",\"roundName\":\"Round 2\",\"roundNum\":2,\"groupId\":\"B\",\"matchIndex"
+    "discipline": "Duplas Mistas 2",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"kids_team_coed____default__m8__sub-XD-2\", \"date\": \"2026-09-04\", \"time_local\": \"09:12\", \"time_brt\": \"23:12\", \"datetime_local\": \"04/09/2026 09:12\", \"datetime_brt\": \"03/09/2026 23:12\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"Round 2\", \"discipline\": \"Duplas Mistas 2\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "masters_team_coed____default__m5__sub-FB",
@@ -391,9 +391,9 @@
     "category": "masters_team_coed",
     "round": "Round 1",
     "discipline": "Final Battle",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"masters_team_coed____default__m5__sub-FB\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T09:36:00\",\"bracketId\":\"masters_team_coed____default\",\"categoryId\":\"masters_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"masters_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"A\",\""
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"masters_team_coed____default__m5__sub-FB\", \"date\": \"2026-09-04\", \"time_local\": \"09:36\", \"time_brt\": \"23:36\", \"datetime_local\": \"04/09/2026 09:36\", \"datetime_brt\": \"03/09/2026 23:36\", \"category\": \"Cúp Thế Giới - Masters Team (+35)\", \"raw_category\": \"masters_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Final Battle\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "masters_team_coed____default__m5__sub-MD",
@@ -402,10 +402,10 @@
     "venue": "",
     "category": "masters_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"masters_team_coed____default__m5__sub-MD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T08:24:00\",\"bracketId\":\"masters_team_coed____default\",\"categoryId\":\"masters_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"masters_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"A\",\""
+    "discipline": "Duplas Masculinas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"masters_team_coed____default__m5__sub-MD\", \"date\": \"2026-09-04\", \"time_local\": \"08:24\", \"time_brt\": \"22:24\", \"datetime_local\": \"04/09/2026 08:24\", \"datetime_brt\": \"03/09/2026 22:24\", \"category\": \"Cúp Thế Giới - Masters Team (+35)\", \"raw_category\": \"masters_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Masculinas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "masters_team_coed____default__m5__sub-WD",
@@ -414,10 +414,10 @@
     "venue": "",
     "category": "masters_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i N\u00e1\u00bb\u00af",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"masters_team_coed____default__m5__sub-WD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T08:00:00\",\"bracketId\":\"masters_team_coed____default\",\"categoryId\":\"masters_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"masters_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"A\",\""
+    "discipline": "Duplas Femininas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"masters_team_coed____default__m5__sub-WD\", \"date\": \"2026-09-04\", \"time_local\": \"08:00\", \"time_brt\": \"22:00\", \"datetime_local\": \"04/09/2026 08:00\", \"datetime_brt\": \"03/09/2026 22:00\", \"category\": \"Cúp Thế Giới - Masters Team (+35)\", \"raw_category\": \"masters_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Femininas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "masters_team_coed____default__m5__sub-XD-1",
@@ -426,10 +426,10 @@
     "venue": "",
     "category": "masters_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 1",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"masters_team_coed____default__m5__sub-XD-1\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T08:48:00\",\"bracketId\":\"masters_team_coed____default\",\"categoryId\":\"masters_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"masters_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"A\""
+    "discipline": "Duplas Mistas 1",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"masters_team_coed____default__m5__sub-XD-1\", \"date\": \"2026-09-04\", \"time_local\": \"08:48\", \"time_brt\": \"22:48\", \"datetime_local\": \"04/09/2026 08:48\", \"datetime_brt\": \"03/09/2026 22:48\", \"category\": \"Cúp Thế Giới - Masters Team (+35)\", \"raw_category\": \"masters_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Mistas 1\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "masters_team_coed____default__m5__sub-XD-2",
@@ -438,10 +438,10 @@
     "venue": "",
     "category": "masters_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 2",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"masters_team_coed____default__m5__sub-XD-2\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-04T09:12:00\",\"bracketId\":\"masters_team_coed____default\",\"categoryId\":\"masters_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"masters_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"A\""
+    "discipline": "Duplas Mistas 2",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"masters_team_coed____default__m5__sub-XD-2\", \"date\": \"2026-09-04\", \"time_local\": \"09:12\", \"time_brt\": \"23:12\", \"datetime_local\": \"04/09/2026 09:12\", \"datetime_brt\": \"03/09/2026 23:12\", \"category\": \"Cúp Thế Giới - Masters Team (+35)\", \"raw_category\": \"masters_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Mistas 2\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m24__sub-FB",
@@ -451,9 +451,9 @@
     "category": "open_team_coed",
     "round": "Round 3",
     "discipline": "Final Battle",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m24__sub-FB\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T13:42:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 3\",\"roundNum\":3,\"groupId\":\"E\",\"matchIndex\""
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m24__sub-FB\", \"date\": \"2026-09-03\", \"time_local\": \"13:42\", \"time_brt\": \"03:42\", \"datetime_local\": \"03/09/2026 13:42\", \"datetime_brt\": \"03/09/2026 03:42\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 3\", \"discipline\": \"Final Battle\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m24__sub-MD",
@@ -462,10 +462,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 3",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m24__sub-MD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T12:17:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 3\",\"roundNum\":3,\"groupId\":\"E\",\"matchIndex\""
+    "discipline": "Duplas Masculinas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m24__sub-MD\", \"date\": \"2026-09-03\", \"time_local\": \"12:17\", \"time_brt\": \"02:17\", \"datetime_local\": \"03/09/2026 12:17\", \"datetime_brt\": \"03/09/2026 02:17\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 3\", \"discipline\": \"Duplas Masculinas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m24__sub-MS",
@@ -474,10 +474,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 3",
-    "discipline": "\u00c4\u0090\u00c6\u00a1n Nam",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m24__sub-MS\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T13:25:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 3\",\"roundNum\":3,\"groupId\":\"E\",\"matchIndex\""
+    "discipline": "Simples Masculino",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m24__sub-MS\", \"date\": \"2026-09-03\", \"time_local\": \"13:25\", \"time_brt\": \"03:25\", \"datetime_local\": \"03/09/2026 13:25\", \"datetime_brt\": \"03/09/2026 03:25\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 3\", \"discipline\": \"Simples Masculino\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m24__sub-WD",
@@ -486,10 +486,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 3",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i N\u00e1\u00bb\u00af",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m24__sub-WD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T12:00:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 3\",\"roundNum\":3,\"groupId\":\"E\",\"matchIndex\""
+    "discipline": "Duplas Femininas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m24__sub-WD\", \"date\": \"2026-09-03\", \"time_local\": \"12:00\", \"time_brt\": \"02:00\", \"datetime_local\": \"03/09/2026 12:00\", \"datetime_brt\": \"03/09/2026 02:00\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 3\", \"discipline\": \"Duplas Femininas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m24__sub-WS",
@@ -498,10 +498,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 3",
-    "discipline": "\u00c4\u0090\u00c6\u00a1n N\u00e1\u00bb\u00af",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m24__sub-WS\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T13:08:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 3\",\"roundNum\":3,\"groupId\":\"E\",\"matchIndex\""
+    "discipline": "Simples Feminino",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m24__sub-WS\", \"date\": \"2026-09-03\", \"time_local\": \"13:08\", \"time_brt\": \"03:08\", \"datetime_local\": \"03/09/2026 13:08\", \"datetime_brt\": \"03/09/2026 03:08\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 3\", \"discipline\": \"Simples Feminino\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m24__sub-XD-1",
@@ -510,10 +510,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 3",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 1",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m24__sub-XD-1\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T12:34:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 3\",\"roundNum\":3,\"groupId\":\"E\",\"matchInde"
+    "discipline": "Duplas Mistas 1",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m24__sub-XD-1\", \"date\": \"2026-09-03\", \"time_local\": \"12:34\", \"time_brt\": \"02:34\", \"datetime_local\": \"03/09/2026 12:34\", \"datetime_brt\": \"03/09/2026 02:34\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 3\", \"discipline\": \"Duplas Mistas 1\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m24__sub-XD-2",
@@ -522,10 +522,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 3",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 2",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m24__sub-XD-2\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T12:51:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 3\",\"roundNum\":3,\"groupId\":\"E\",\"matchInde"
+    "discipline": "Duplas Mistas 2",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m24__sub-XD-2\", \"date\": \"2026-09-03\", \"time_local\": \"12:51\", \"time_brt\": \"02:51\", \"datetime_local\": \"03/09/2026 12:51\", \"datetime_brt\": \"03/09/2026 02:51\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 3\", \"discipline\": \"Duplas Mistas 2\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m26__sub-FB",
@@ -535,9 +535,9 @@
     "category": "open_team_coed",
     "round": "Round 2",
     "discipline": "Final Battle",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m26__sub-FB\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T11:42:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 2\",\"roundNum\":2,\"groupId\":\"E\",\"matchIndex\""
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m26__sub-FB\", \"date\": \"2026-09-03\", \"time_local\": \"11:42\", \"time_brt\": \"01:42\", \"datetime_local\": \"03/09/2026 11:42\", \"datetime_brt\": \"03/09/2026 01:42\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 2\", \"discipline\": \"Final Battle\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m26__sub-MD",
@@ -546,10 +546,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 2",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m26__sub-MD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T10:17:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 2\",\"roundNum\":2,\"groupId\":\"E\",\"matchIndex\""
+    "discipline": "Duplas Masculinas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m26__sub-MD\", \"date\": \"2026-09-03\", \"time_local\": \"10:17\", \"time_brt\": \"00:17\", \"datetime_local\": \"03/09/2026 10:17\", \"datetime_brt\": \"03/09/2026 00:17\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 2\", \"discipline\": \"Duplas Masculinas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m26__sub-MS",
@@ -558,10 +558,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 2",
-    "discipline": "\u00c4\u0090\u00c6\u00a1n Nam",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m26__sub-MS\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T11:25:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 2\",\"roundNum\":2,\"groupId\":\"E\",\"matchIndex\""
+    "discipline": "Simples Masculino",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m26__sub-MS\", \"date\": \"2026-09-03\", \"time_local\": \"11:25\", \"time_brt\": \"01:25\", \"datetime_local\": \"03/09/2026 11:25\", \"datetime_brt\": \"03/09/2026 01:25\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 2\", \"discipline\": \"Simples Masculino\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m26__sub-WD",
@@ -570,10 +570,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 2",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i N\u00e1\u00bb\u00af",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m26__sub-WD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T10:00:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 2\",\"roundNum\":2,\"groupId\":\"E\",\"matchIndex\""
+    "discipline": "Duplas Femininas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m26__sub-WD\", \"date\": \"2026-09-03\", \"time_local\": \"10:00\", \"time_brt\": \"00:00\", \"datetime_local\": \"03/09/2026 10:00\", \"datetime_brt\": \"03/09/2026 00:00\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 2\", \"discipline\": \"Duplas Femininas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m26__sub-WS",
@@ -582,10 +582,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 2",
-    "discipline": "\u00c4\u0090\u00c6\u00a1n N\u00e1\u00bb\u00af",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m26__sub-WS\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T11:08:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 2\",\"roundNum\":2,\"groupId\":\"E\",\"matchIndex\""
+    "discipline": "Simples Feminino",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m26__sub-WS\", \"date\": \"2026-09-03\", \"time_local\": \"11:08\", \"time_brt\": \"01:08\", \"datetime_local\": \"03/09/2026 11:08\", \"datetime_brt\": \"03/09/2026 01:08\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 2\", \"discipline\": \"Simples Feminino\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m26__sub-XD-1",
@@ -594,10 +594,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 2",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 1",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m26__sub-XD-1\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T10:34:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 2\",\"roundNum\":2,\"groupId\":\"E\",\"matchInde"
+    "discipline": "Duplas Mistas 1",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m26__sub-XD-1\", \"date\": \"2026-09-03\", \"time_local\": \"10:34\", \"time_brt\": \"00:34\", \"datetime_local\": \"03/09/2026 10:34\", \"datetime_brt\": \"03/09/2026 00:34\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 2\", \"discipline\": \"Duplas Mistas 1\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m26__sub-XD-2",
@@ -606,10 +606,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 2",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 2",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m26__sub-XD-2\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T10:51:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 2\",\"roundNum\":2,\"groupId\":\"E\",\"matchInde"
+    "discipline": "Duplas Mistas 2",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m26__sub-XD-2\", \"date\": \"2026-09-03\", \"time_local\": \"10:51\", \"time_brt\": \"00:51\", \"datetime_local\": \"03/09/2026 10:51\", \"datetime_brt\": \"03/09/2026 00:51\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 2\", \"discipline\": \"Duplas Mistas 2\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m28__sub-FB",
@@ -619,9 +619,9 @@
     "category": "open_team_coed",
     "round": "Round 1",
     "discipline": "Final Battle",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m28__sub-FB\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T09:42:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"E\",\"matchIndex\""
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m28__sub-FB\", \"date\": \"2026-09-03\", \"time_local\": \"09:42\", \"time_brt\": \"23:42\", \"datetime_local\": \"03/09/2026 09:42\", \"datetime_brt\": \"02/09/2026 23:42\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Final Battle\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m28__sub-MD",
@@ -630,10 +630,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m28__sub-MD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T08:17:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"E\",\"matchIndex\""
+    "discipline": "Duplas Masculinas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m28__sub-MD\", \"date\": \"2026-09-03\", \"time_local\": \"08:17\", \"time_brt\": \"22:17\", \"datetime_local\": \"03/09/2026 08:17\", \"datetime_brt\": \"02/09/2026 22:17\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Masculinas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m28__sub-MS",
@@ -642,10 +642,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c6\u00a1n Nam",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m28__sub-MS\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T09:25:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"E\",\"matchIndex\""
+    "discipline": "Simples Masculino",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m28__sub-MS\", \"date\": \"2026-09-03\", \"time_local\": \"09:25\", \"time_brt\": \"23:25\", \"datetime_local\": \"03/09/2026 09:25\", \"datetime_brt\": \"02/09/2026 23:25\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Simples Masculino\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m28__sub-WD",
@@ -654,10 +654,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i N\u00e1\u00bb\u00af",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m28__sub-WD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T08:00:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"E\",\"matchIndex\""
+    "discipline": "Duplas Femininas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m28__sub-WD\", \"date\": \"2026-09-03\", \"time_local\": \"08:00\", \"time_brt\": \"22:00\", \"datetime_local\": \"03/09/2026 08:00\", \"datetime_brt\": \"02/09/2026 22:00\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Femininas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m28__sub-WS",
@@ -666,10 +666,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c6\u00a1n N\u00e1\u00bb\u00af",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m28__sub-WS\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T09:08:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"E\",\"matchIndex\""
+    "discipline": "Simples Feminino",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m28__sub-WS\", \"date\": \"2026-09-03\", \"time_local\": \"09:08\", \"time_brt\": \"23:08\", \"datetime_local\": \"03/09/2026 09:08\", \"datetime_brt\": \"02/09/2026 23:08\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Simples Feminino\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m28__sub-XD-1",
@@ -678,10 +678,10 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 1",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m28__sub-XD-1\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T08:34:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"E\",\"matchInde"
+    "discipline": "Duplas Mistas 1",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m28__sub-XD-1\", \"date\": \"2026-09-03\", \"time_local\": \"08:34\", \"time_brt\": \"22:34\", \"datetime_local\": \"03/09/2026 08:34\", \"datetime_brt\": \"02/09/2026 22:34\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Mistas 1\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "open_team_coed____default__m28__sub-XD-2",
@@ -690,34 +690,34 @@
     "venue": "",
     "category": "open_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 2",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"open_team_coed____default__m28__sub-XD-2\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T08:51:00\",\"bracketId\":\"open_team_coed____default\",\"categoryId\":\"open_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"open_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"E\",\"matchInde"
+    "discipline": "Duplas Mistas 2",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"open_team_coed____default__m28__sub-XD-2\", \"date\": \"2026-09-03\", \"time_local\": \"08:51\", \"time_brt\": \"22:51\", \"datetime_local\": \"03/09/2026 08:51\", \"datetime_brt\": \"02/09/2026 22:51\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Mistas 2\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "pro_doubles_mens____pro_doubles_mens__m95",
     "scheduledAt": "2026-09-01T09:10:00",
-    "court": "S\u00c3\u00a2n 7 \u00c2\u00b7 Court 5",
+    "court": "Quadra 7 · Court 5",
     "venue": "TIEN SON CENTER",
     "category": "pro_doubles_mens",
     "round": "Round of 64",
     "discipline": "",
-    "entryA": "{\"entryId\":\"PRDB1782940503336\",\"teamName\":\"Jo\u00c3\u00a3o Pedro Agulha Fernandes / Kevin Dayan\",\"seed\":22}",
-    "entryB": "",
-    "raw": "{\"id\":\"pro_doubles_mens____pro_doubles_mens__m95\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-01T09:10:00\",\"bracketId\":\"pro_doubles_mens____pro_doubles_mens\",\"categoryId\":\"pro_doubles_mens\",\"divisionId\":\"pro_doubles_mens\",\"divisionName\":\"pro_doubles_mens\",\"roundName\":\"Round of 64\",\"roundNum\":2,\"matc"
+    "entryA": "{\"teamName\": \"João Pedro Agulha Fernandes / Kevin Dayan\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"pro_doubles_mens____pro_doubles_mens__m95\", \"date\": \"2026-09-01\", \"time_local\": \"09:10\", \"time_brt\": \"23:10\", \"datetime_local\": \"01/09/2026 09:10\", \"datetime_brt\": \"31/08/2026 23:10\", \"category\": \"PRO - Duplas Masculinas\", \"raw_category\": \"pro_doubles_mens\", \"round\": \"Round of 64\", \"discipline\": \"\", \"teamA\": \"João Pedro Agulha Fernandes / Kevin Dayan\", \"teamB\": \"Time B\", \"court\": \"Quadra 7 · Court 5\", \"venue\": \"TIEN SON CENTER\"}"
   },
   {
     "id": "pro_singles_mens____pro_singles_mens__m95",
     "scheduledAt": "2026-08-31T11:15:00",
-    "court": "S\u00c3\u00a2n 5 \u00c2\u00b7 Court 3",
+    "court": "Quadra 5 · Court 3",
     "venue": "TIEN SON CENTER",
     "category": "pro_singles_mens",
     "round": "Round of 64",
     "discipline": "",
-    "entryA": "{\"entryId\":\"PRSG1783961925141\",\"teamName\":\"Hugo Cesar Dojas\",\"seed\":22}",
-    "entryB": "",
-    "raw": "{\"id\":\"pro_singles_mens____pro_singles_mens__m95\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-08-31T11:15:00\",\"bracketId\":\"pro_singles_mens____pro_singles_mens\",\"categoryId\":\"pro_singles_mens\",\"divisionId\":\"pro_singles_mens\",\"divisionName\":\"pro_singles_mens\",\"roundName\":\"Round of 64\",\"roundNum\":2,\"matc"
+    "entryA": "{\"teamName\": \"Hugo Cesar Dojas\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"pro_singles_mens____pro_singles_mens__m95\", \"date\": \"2026-08-31\", \"time_local\": \"11:15\", \"time_brt\": \"01:15\", \"datetime_local\": \"31/08/2026 11:15\", \"datetime_brt\": \"31/08/2026 01:15\", \"category\": \"PRO - Simples Masculino\", \"raw_category\": \"pro_singles_mens\", \"round\": \"Round of 64\", \"discipline\": \"\", \"teamA\": \"Hugo Cesar Dojas\", \"teamB\": \"Time B\", \"court\": \"Quadra 5 · Court 3\", \"venue\": \"TIEN SON CENTER\"}"
   },
   {
     "id": "seniors_team_coed____default__m17__sub-FB",
@@ -727,9 +727,9 @@
     "category": "seniors_team_coed",
     "round": "Round 1",
     "discipline": "Final Battle",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"seniors_team_coed____default__m17__sub-FB\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T15:36:00\",\"bracketId\":\"seniors_team_coed____default\",\"categoryId\":\"seniors_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"seniors_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"C\","
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"seniors_team_coed____default__m17__sub-FB\", \"date\": \"2026-09-03\", \"time_local\": \"15:36\", \"time_brt\": \"05:36\", \"datetime_local\": \"03/09/2026 15:36\", \"datetime_brt\": \"03/09/2026 05:36\", \"category\": \"Cúp Thế Giới - Seniors Team (+50)\", \"raw_category\": \"seniors_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Final Battle\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "seniors_team_coed____default__m17__sub-MD",
@@ -738,10 +738,10 @@
     "venue": "",
     "category": "seniors_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"seniors_team_coed____default__m17__sub-MD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T14:24:00\",\"bracketId\":\"seniors_team_coed____default\",\"categoryId\":\"seniors_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"seniors_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"C\","
+    "discipline": "Duplas Masculinas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"seniors_team_coed____default__m17__sub-MD\", \"date\": \"2026-09-03\", \"time_local\": \"14:24\", \"time_brt\": \"04:24\", \"datetime_local\": \"03/09/2026 14:24\", \"datetime_brt\": \"03/09/2026 04:24\", \"category\": \"Cúp Thế Giới - Seniors Team (+50)\", \"raw_category\": \"seniors_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Masculinas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "seniors_team_coed____default__m17__sub-WD",
@@ -750,10 +750,10 @@
     "venue": "",
     "category": "seniors_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i N\u00e1\u00bb\u00af",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"seniors_team_coed____default__m17__sub-WD\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T14:00:00\",\"bracketId\":\"seniors_team_coed____default\",\"categoryId\":\"seniors_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"seniors_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"C\","
+    "discipline": "Duplas Femininas",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"seniors_team_coed____default__m17__sub-WD\", \"date\": \"2026-09-03\", \"time_local\": \"14:00\", \"time_brt\": \"04:00\", \"datetime_local\": \"03/09/2026 14:00\", \"datetime_brt\": \"03/09/2026 04:00\", \"category\": \"Cúp Thế Giới - Seniors Team (+50)\", \"raw_category\": \"seniors_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Femininas\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "seniors_team_coed____default__m17__sub-XD-1",
@@ -762,10 +762,10 @@
     "venue": "",
     "category": "seniors_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 1",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"seniors_team_coed____default__m17__sub-XD-1\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T14:48:00\",\"bracketId\":\"seniors_team_coed____default\",\"categoryId\":\"seniors_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"seniors_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"C"
+    "discipline": "Duplas Mistas 1",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"seniors_team_coed____default__m17__sub-XD-1\", \"date\": \"2026-09-03\", \"time_local\": \"14:48\", \"time_brt\": \"04:48\", \"datetime_local\": \"03/09/2026 14:48\", \"datetime_brt\": \"03/09/2026 04:48\", \"category\": \"Cúp Thế Giới - Seniors Team (+50)\", \"raw_category\": \"seniors_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Mistas 1\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": "seniors_team_coed____default__m17__sub-XD-2",
@@ -774,501 +774,501 @@
     "venue": "",
     "category": "seniors_team_coed",
     "round": "Round 1",
-    "discipline": "\u00c4\u0090\u00c3\u00b4i Nam N\u00e1\u00bb\u00af 2",
-    "entryA": "{\"name\":\"Brazil\"}",
-    "entryB": "",
-    "raw": "{\"id\":\"seniors_team_coed____default__m17__sub-XD-2\",\"status\":\"scheduled\",\"scheduledAt\":\"2026-09-03T15:12:00\",\"bracketId\":\"seniors_team_coed____default\",\"categoryId\":\"seniors_team_coed\",\"divisionId\":\"default\",\"divisionName\":\"seniors_team_coed / default\",\"roundName\":\"Round 1\",\"roundNum\":1,\"groupId\":\"C"
+    "discipline": "Duplas Mistas 2",
+    "entryA": "{\"teamName\": \"Brazil\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": \"seniors_team_coed____default__m17__sub-XD-2\", \"date\": \"2026-09-03\", \"time_local\": \"15:12\", \"time_brt\": \"05:12\", \"datetime_local\": \"03/09/2026 15:12\", \"datetime_brt\": \"03/09/2026 05:12\", \"category\": \"Cúp Thế Giới - Seniors Team (+50)\", \"raw_category\": \"seniors_team_coed\", \"round\": \"Round 1\", \"discipline\": \"Duplas Mistas 2\", \"teamA\": \"Brazil\", \"teamB\": \"Time B\", \"court\": \"Court TBD\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T14:00:00",
-    "court": "S\u00c3\u00a2n 23 \u00c2\u00b7 B8",
+    "court": "Quadra 23 · B8",
     "venue": "",
     "category": "juniors_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":13,\"delegationId\":\"brazil\",\"entryId\":\"juniors_team_coed__brazil\"},\"courtNumber\":23,\"courtName\":\"B8\",\"courtLabel\":\"S\u00c3\u00a2n 23 \u00c2\u00b7 B8\",\"matchIndex\":23,\"bracketId\":\"juniors_team_coed____default\",\"scheduledAt\":\"2026-09-04T14:00:00\",\"categoryId\":\"juniors_team_coed\",\"status\":\"sched"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"14:00\", \"time_brt\": \"04:00\", \"datetime_local\": \"04/09/2026 14:00\", \"datetime_brt\": \"04/09/2026 04:00\", \"category\": \"Cúp Thế Giới - Juniors Team (Sub-18)\", \"raw_category\": \"juniors_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 23 · B8\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T15:36:00",
-    "court": "S\u00c3\u00a2n 23 \u00c2\u00b7 B8",
+    "court": "Quadra 23 · B8",
     "venue": "",
     "category": "juniors_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":13,\"delegationId\":\"brazil\",\"entryId\":\"juniors_team_coed__brazil\"},\"courtNumber\":23,\"courtName\":\"B8\",\"tieId\":\"juniors_team_coed____default__m23\",\"courtLabel\":\"S\u00c3\u00a2n 23 \u00c2\u00b7 B8\",\"matchIndex\":4,\"bracketId\":\"juniors_team_coed____default\",\"scheduledAt\":\"2026-09-04T15:36:00\",\"cate"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"15:36\", \"time_brt\": \"05:36\", \"datetime_local\": \"04/09/2026 15:36\", \"datetime_brt\": \"04/09/2026 05:36\", \"category\": \"Cúp Thế Giới - Juniors Team (Sub-18)\", \"raw_category\": \"juniors_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 23 · B8\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T14:24:00",
-    "court": "S\u00c3\u00a2n 23 \u00c2\u00b7 B8",
+    "court": "Quadra 23 · B8",
     "venue": "",
     "category": "juniors_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":13,\"delegationId\":\"brazil\",\"entryId\":\"juniors_team_coed__brazil\"},\"courtNumber\":23,\"courtName\":\"B8\",\"tieId\":\"juniors_team_coed____default__m23\",\"courtLabel\":\"S\u00c3\u00a2n 23 \u00c2\u00b7 B8\",\"matchIndex\":1,\"bracketId\":\"juniors_team_coed____default\",\"scheduledAt\":\"2026-09-04T14:24:00\",\"cate"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"14:24\", \"time_brt\": \"04:24\", \"datetime_local\": \"04/09/2026 14:24\", \"datetime_brt\": \"04/09/2026 04:24\", \"category\": \"Cúp Thế Giới - Juniors Team (Sub-18)\", \"raw_category\": \"juniors_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 23 · B8\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T14:48:00",
-    "court": "S\u00c3\u00a2n 23 \u00c2\u00b7 B8",
+    "court": "Quadra 23 · B8",
     "venue": "",
     "category": "juniors_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":13,\"delegationId\":\"brazil\",\"entryId\":\"juniors_team_coed__brazil\"},\"courtNumber\":23,\"courtName\":\"B8\",\"tieId\":\"juniors_team_coed____default__m23\",\"courtLabel\":\"S\u00c3\u00a2n 23 \u00c2\u00b7 B8\",\"matchIndex\":2,\"bracketId\":\"juniors_team_coed____default\",\"scheduledAt\":\"2026-09-04T14:48:00\",\"cate"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"14:48\", \"time_brt\": \"04:48\", \"datetime_local\": \"04/09/2026 14:48\", \"datetime_brt\": \"04/09/2026 04:48\", \"category\": \"Cúp Thế Giới - Juniors Team (Sub-18)\", \"raw_category\": \"juniors_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 23 · B8\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T15:12:00",
-    "court": "S\u00c3\u00a2n 23 \u00c2\u00b7 B8",
+    "court": "Quadra 23 · B8",
     "venue": "",
     "category": "juniors_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":13,\"delegationId\":\"brazil\",\"entryId\":\"juniors_team_coed__brazil\"},\"courtNumber\":23,\"courtName\":\"B8\",\"tieId\":\"juniors_team_coed____default__m23\",\"courtLabel\":\"S\u00c3\u00a2n 23 \u00c2\u00b7 B8\",\"matchIndex\":3,\"bracketId\":\"juniors_team_coed____default\",\"scheduledAt\":\"2026-09-04T15:12:00\",\"cate"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"15:12\", \"time_brt\": \"05:12\", \"datetime_local\": \"04/09/2026 15:12\", \"datetime_brt\": \"04/09/2026 05:12\", \"category\": \"Cúp Thế Giới - Juniors Team (Sub-18)\", \"raw_category\": \"juniors_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 23 · B8\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T10:00:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 CC",
+    "court": "Quadra 1 · CC",
     "venue": "",
     "category": "kids_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":4,\"delegationId\":\"brazil\",\"entryId\":\"kids_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"CC\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 CC\",\"matchIndex\":6,\"bracketId\":\"kids_team_coed____default\",\"scheduledAt\":\"2026-09-04T10:00:00\",\"categoryId\":\"kids_team_coed\",\"status\":\"scheduled\"}"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"10:00\", \"time_brt\": \"00:00\", \"datetime_local\": \"04/09/2026 10:00\", \"datetime_brt\": \"04/09/2026 00:00\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · CC\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T11:36:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 CC",
+    "court": "Quadra 1 · CC",
     "venue": "",
     "category": "kids_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":4,\"delegationId\":\"brazil\",\"entryId\":\"kids_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"CC\",\"tieId\":\"kids_team_coed____default__m6\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 CC\",\"matchIndex\":4,\"bracketId\":\"kids_team_coed____default\",\"scheduledAt\":\"2026-09-04T11:36:00\",\"categoryId\":\"kids"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"11:36\", \"time_brt\": \"01:36\", \"datetime_local\": \"04/09/2026 11:36\", \"datetime_brt\": \"04/09/2026 01:36\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · CC\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T10:24:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 CC",
+    "court": "Quadra 1 · CC",
     "venue": "",
     "category": "kids_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":4,\"delegationId\":\"brazil\",\"entryId\":\"kids_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"CC\",\"tieId\":\"kids_team_coed____default__m6\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 CC\",\"matchIndex\":1,\"bracketId\":\"kids_team_coed____default\",\"scheduledAt\":\"2026-09-04T10:24:00\",\"categoryId\":\"kids"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"10:24\", \"time_brt\": \"00:24\", \"datetime_local\": \"04/09/2026 10:24\", \"datetime_brt\": \"04/09/2026 00:24\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · CC\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T10:48:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 CC",
+    "court": "Quadra 1 · CC",
     "venue": "",
     "category": "kids_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":4,\"delegationId\":\"brazil\",\"entryId\":\"kids_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"CC\",\"tieId\":\"kids_team_coed____default__m6\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 CC\",\"matchIndex\":2,\"bracketId\":\"kids_team_coed____default\",\"scheduledAt\":\"2026-09-04T10:48:00\",\"categoryId\":\"kids"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"10:48\", \"time_brt\": \"00:48\", \"datetime_local\": \"04/09/2026 10:48\", \"datetime_brt\": \"04/09/2026 00:48\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · CC\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T11:12:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 CC",
+    "court": "Quadra 1 · CC",
     "venue": "",
     "category": "kids_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":4,\"delegationId\":\"brazil\",\"entryId\":\"kids_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"CC\",\"tieId\":\"kids_team_coed____default__m6\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 CC\",\"matchIndex\":3,\"bracketId\":\"kids_team_coed____default\",\"scheduledAt\":\"2026-09-04T11:12:00\",\"categoryId\":\"kids"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"11:12\", \"time_brt\": \"01:12\", \"datetime_local\": \"04/09/2026 11:12\", \"datetime_brt\": \"04/09/2026 01:12\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · CC\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T08:00:00",
-    "court": "S\u00c3\u00a2n 3 \u00c2\u00b7 Court 1",
+    "court": "Quadra 3 · Court 1",
     "venue": "",
     "category": "kids_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":4,\"delegationId\":\"brazil\",\"entryId\":\"kids_team_coed__brazil\"},\"courtNumber\":3,\"courtName\":\"Court 1\",\"courtLabel\":\"S\u00c3\u00a2n 3 \u00c2\u00b7 Court 1\",\"matchIndex\":8,\"bracketId\":\"kids_team_coed____default\",\"scheduledAt\":\"2026-09-04T08:00:00\",\"categoryId\":\"kids_team_coed\",\"status\":\"schedule"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"08:00\", \"time_brt\": \"22:00\", \"datetime_local\": \"04/09/2026 08:00\", \"datetime_brt\": \"03/09/2026 22:00\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 3 · Court 1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T09:36:00",
-    "court": "S\u00c3\u00a2n 3 \u00c2\u00b7 Court 1",
+    "court": "Quadra 3 · Court 1",
     "venue": "",
     "category": "kids_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":4,\"delegationId\":\"brazil\",\"entryId\":\"kids_team_coed__brazil\"},\"courtNumber\":3,\"courtName\":\"Court 1\",\"tieId\":\"kids_team_coed____default__m8\",\"courtLabel\":\"S\u00c3\u00a2n 3 \u00c2\u00b7 Court 1\",\"matchIndex\":4,\"bracketId\":\"kids_team_coed____default\",\"scheduledAt\":\"2026-09-04T09:36:00\",\"categor"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"09:36\", \"time_brt\": \"23:36\", \"datetime_local\": \"04/09/2026 09:36\", \"datetime_brt\": \"03/09/2026 23:36\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 3 · Court 1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T08:24:00",
-    "court": "S\u00c3\u00a2n 3 \u00c2\u00b7 Court 1",
+    "court": "Quadra 3 · Court 1",
     "venue": "",
     "category": "kids_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":4,\"delegationId\":\"brazil\",\"entryId\":\"kids_team_coed__brazil\"},\"courtNumber\":3,\"courtName\":\"Court 1\",\"tieId\":\"kids_team_coed____default__m8\",\"courtLabel\":\"S\u00c3\u00a2n 3 \u00c2\u00b7 Court 1\",\"matchIndex\":1,\"bracketId\":\"kids_team_coed____default\",\"scheduledAt\":\"2026-09-04T08:24:00\",\"categor"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"08:24\", \"time_brt\": \"22:24\", \"datetime_local\": \"04/09/2026 08:24\", \"datetime_brt\": \"03/09/2026 22:24\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 3 · Court 1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T08:48:00",
-    "court": "S\u00c3\u00a2n 3 \u00c2\u00b7 Court 1",
+    "court": "Quadra 3 · Court 1",
     "venue": "",
     "category": "kids_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":4,\"delegationId\":\"brazil\",\"entryId\":\"kids_team_coed__brazil\"},\"courtNumber\":3,\"courtName\":\"Court 1\",\"tieId\":\"kids_team_coed____default__m8\",\"courtLabel\":\"S\u00c3\u00a2n 3 \u00c2\u00b7 Court 1\",\"matchIndex\":2,\"bracketId\":\"kids_team_coed____default\",\"scheduledAt\":\"2026-09-04T08:48:00\",\"categor"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"08:48\", \"time_brt\": \"22:48\", \"datetime_local\": \"04/09/2026 08:48\", \"datetime_brt\": \"03/09/2026 22:48\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 3 · Court 1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-04T09:12:00",
-    "court": "S\u00c3\u00a2n 3 \u00c2\u00b7 Court 1",
+    "court": "Quadra 3 · Court 1",
     "venue": "",
     "category": "kids_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":4,\"delegationId\":\"brazil\",\"entryId\":\"kids_team_coed__brazil\"},\"courtNumber\":3,\"courtName\":\"Court 1\",\"tieId\":\"kids_team_coed____default__m8\",\"courtLabel\":\"S\u00c3\u00a2n 3 \u00c2\u00b7 Court 1\",\"matchIndex\":3,\"bracketId\":\"kids_team_coed____default\",\"scheduledAt\":\"2026-09-04T09:12:00\",\"categor"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-04\", \"time_local\": \"09:12\", \"time_brt\": \"23:12\", \"datetime_local\": \"04/09/2026 09:12\", \"datetime_brt\": \"03/09/2026 23:12\", \"category\": \"Cúp Thế Giới - Kids Team (Sub-14)\", \"raw_category\": \"kids_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 3 · Court 1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T12:00:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":24,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T12:00:00\",\"categoryId\":\"open_team_coed\",\"status\":\"scheduled\"}"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"12:00\", \"time_brt\": \"02:00\", \"datetime_local\": \"03/09/2026 12:00\", \"datetime_brt\": \"03/09/2026 02:00\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T13:42:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m24\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":6,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T13:42:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"13:42\", \"time_brt\": \"03:42\", \"datetime_local\": \"03/09/2026 13:42\", \"datetime_brt\": \"03/09/2026 03:42\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T12:17:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m24\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":1,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T12:17:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"12:17\", \"time_brt\": \"02:17\", \"datetime_local\": \"03/09/2026 12:17\", \"datetime_brt\": \"03/09/2026 02:17\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T13:25:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m24\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":5,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T13:25:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"13:25\", \"time_brt\": \"03:25\", \"datetime_local\": \"03/09/2026 13:25\", \"datetime_brt\": \"03/09/2026 03:25\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T13:08:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m24\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":4,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T13:08:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"13:08\", \"time_brt\": \"03:08\", \"datetime_local\": \"03/09/2026 13:08\", \"datetime_brt\": \"03/09/2026 03:08\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T12:34:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m24\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":2,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T12:34:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"12:34\", \"time_brt\": \"02:34\", \"datetime_local\": \"03/09/2026 12:34\", \"datetime_brt\": \"03/09/2026 02:34\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T12:51:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m24\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":3,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T12:51:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"12:51\", \"time_brt\": \"02:51\", \"datetime_local\": \"03/09/2026 12:51\", \"datetime_brt\": \"03/09/2026 02:51\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T10:00:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":26,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T10:00:00\",\"categoryId\":\"open_team_coed\",\"status\":\"scheduled\"}"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"10:00\", \"time_brt\": \"00:00\", \"datetime_local\": \"03/09/2026 10:00\", \"datetime_brt\": \"03/09/2026 00:00\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T11:42:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m26\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":6,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T11:42:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"11:42\", \"time_brt\": \"01:42\", \"datetime_local\": \"03/09/2026 11:42\", \"datetime_brt\": \"03/09/2026 01:42\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T10:17:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m26\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":1,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T10:17:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"10:17\", \"time_brt\": \"00:17\", \"datetime_local\": \"03/09/2026 10:17\", \"datetime_brt\": \"03/09/2026 00:17\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T11:25:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m26\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":5,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T11:25:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"11:25\", \"time_brt\": \"01:25\", \"datetime_local\": \"03/09/2026 11:25\", \"datetime_brt\": \"03/09/2026 01:25\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T11:08:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m26\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":4,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T11:08:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"11:08\", \"time_brt\": \"01:08\", \"datetime_local\": \"03/09/2026 11:08\", \"datetime_brt\": \"03/09/2026 01:08\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T10:34:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m26\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":2,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T10:34:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"10:34\", \"time_brt\": \"00:34\", \"datetime_local\": \"03/09/2026 10:34\", \"datetime_brt\": \"03/09/2026 00:34\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T10:51:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m26\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":3,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T10:51:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"10:51\", \"time_brt\": \"00:51\", \"datetime_local\": \"03/09/2026 10:51\", \"datetime_brt\": \"03/09/2026 00:51\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T08:00:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":28,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T08:00:00\",\"categoryId\":\"open_team_coed\",\"status\":\"scheduled\"}"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"08:00\", \"time_brt\": \"22:00\", \"datetime_local\": \"03/09/2026 08:00\", \"datetime_brt\": \"02/09/2026 22:00\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T09:42:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m28\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":6,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T09:42:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"09:42\", \"time_brt\": \"23:42\", \"datetime_local\": \"03/09/2026 09:42\", \"datetime_brt\": \"02/09/2026 23:42\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T08:17:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m28\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":1,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T08:17:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"08:17\", \"time_brt\": \"22:17\", \"datetime_local\": \"03/09/2026 08:17\", \"datetime_brt\": \"02/09/2026 22:17\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T09:25:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m28\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":5,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T09:25:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"09:25\", \"time_brt\": \"23:25\", \"datetime_local\": \"03/09/2026 09:25\", \"datetime_brt\": \"02/09/2026 23:25\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T09:08:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m28\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":4,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T09:08:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"09:08\", \"time_brt\": \"23:08\", \"datetime_local\": \"03/09/2026 09:08\", \"datetime_brt\": \"02/09/2026 23:08\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T08:34:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m28\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":2,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T08:34:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"08:34\", \"time_brt\": \"22:34\", \"datetime_local\": \"03/09/2026 08:34\", \"datetime_brt\": \"02/09/2026 22:34\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T08:51:00",
-    "court": "S\u00c3\u00a2n 1 \u00c2\u00b7 D1",
+    "court": "Quadra 1 · D1",
     "venue": "",
     "category": "open_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":17,\"delegationId\":\"brazil\",\"entryId\":\"open_team_coed__brazil\"},\"courtNumber\":1,\"courtName\":\"D1\",\"tieId\":\"open_team_coed____default__m28\",\"courtLabel\":\"S\u00c3\u00a2n 1 \u00c2\u00b7 D1\",\"matchIndex\":3,\"bracketId\":\"open_team_coed____default\",\"scheduledAt\":\"2026-09-03T08:51:00\",\"categoryId\":\"op"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"08:51\", \"time_brt\": \"22:51\", \"datetime_local\": \"03/09/2026 08:51\", \"datetime_brt\": \"02/09/2026 22:51\", \"category\": \"Cúp Thế Giới - Open Team (Mundial)\", \"raw_category\": \"open_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 1 · D1\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T14:00:00",
-    "court": "S\u00c3\u00a2n 2 \u00c2\u00b7 D2",
+    "court": "Quadra 2 · D2",
     "venue": "",
     "category": "seniors_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":10,\"delegationId\":\"brazil\",\"entryId\":\"seniors_team_coed__brazil\"},\"courtNumber\":2,\"courtName\":\"D2\",\"courtLabel\":\"S\u00c3\u00a2n 2 \u00c2\u00b7 D2\",\"matchIndex\":17,\"bracketId\":\"seniors_team_coed____default\",\"scheduledAt\":\"2026-09-03T14:00:00\",\"categoryId\":\"seniors_team_coed\",\"status\":\"schedul"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"14:00\", \"time_brt\": \"04:00\", \"datetime_local\": \"03/09/2026 14:00\", \"datetime_brt\": \"03/09/2026 04:00\", \"category\": \"Cúp Thế Giới - Seniors Team (+50)\", \"raw_category\": \"seniors_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 2 · D2\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T15:36:00",
-    "court": "S\u00c3\u00a2n 2 \u00c2\u00b7 D2",
+    "court": "Quadra 2 · D2",
     "venue": "",
     "category": "seniors_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":10,\"delegationId\":\"brazil\",\"entryId\":\"seniors_team_coed__brazil\"},\"courtNumber\":2,\"courtName\":\"D2\",\"tieId\":\"seniors_team_coed____default__m17\",\"courtLabel\":\"S\u00c3\u00a2n 2 \u00c2\u00b7 D2\",\"matchIndex\":4,\"bracketId\":\"seniors_team_coed____default\",\"scheduledAt\":\"2026-09-03T15:36:00\",\"catego"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"15:36\", \"time_brt\": \"05:36\", \"datetime_local\": \"03/09/2026 15:36\", \"datetime_brt\": \"03/09/2026 05:36\", \"category\": \"Cúp Thế Giới - Seniors Team (+50)\", \"raw_category\": \"seniors_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 2 · D2\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T14:24:00",
-    "court": "S\u00c3\u00a2n 2 \u00c2\u00b7 D2",
+    "court": "Quadra 2 · D2",
     "venue": "",
     "category": "seniors_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":10,\"delegationId\":\"brazil\",\"entryId\":\"seniors_team_coed__brazil\"},\"courtNumber\":2,\"courtName\":\"D2\",\"tieId\":\"seniors_team_coed____default__m17\",\"courtLabel\":\"S\u00c3\u00a2n 2 \u00c2\u00b7 D2\",\"matchIndex\":1,\"bracketId\":\"seniors_team_coed____default\",\"scheduledAt\":\"2026-09-03T14:24:00\",\"catego"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"14:24\", \"time_brt\": \"04:24\", \"datetime_local\": \"03/09/2026 14:24\", \"datetime_brt\": \"03/09/2026 04:24\", \"category\": \"Cúp Thế Giới - Seniors Team (+50)\", \"raw_category\": \"seniors_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 2 · D2\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T14:48:00",
-    "court": "S\u00c3\u00a2n 2 \u00c2\u00b7 D2",
+    "court": "Quadra 2 · D2",
     "venue": "",
     "category": "seniors_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":10,\"delegationId\":\"brazil\",\"entryId\":\"seniors_team_coed__brazil\"},\"courtNumber\":2,\"courtName\":\"D2\",\"tieId\":\"seniors_team_coed____default__m17\",\"courtLabel\":\"S\u00c3\u00a2n 2 \u00c2\u00b7 D2\",\"matchIndex\":2,\"bracketId\":\"seniors_team_coed____default\",\"scheduledAt\":\"2026-09-03T14:48:00\",\"catego"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"14:48\", \"time_brt\": \"04:48\", \"datetime_local\": \"03/09/2026 14:48\", \"datetime_brt\": \"03/09/2026 04:48\", \"category\": \"Cúp Thế Giới - Seniors Team (+50)\", \"raw_category\": \"seniors_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 2 · D2\", \"venue\": \"\"}"
   },
   {
     "id": null,
     "scheduledAt": "2026-09-03T15:12:00",
-    "court": "S\u00c3\u00a2n 2 \u00c2\u00b7 D2",
+    "court": "Quadra 2 · D2",
     "venue": "",
     "category": "seniors_team_coed",
     "round": "",
     "discipline": "",
-    "entryA": "",
-    "entryB": "",
-    "raw": "{\"teamName\":\"Brazil\",\"seed\":10,\"delegationId\":\"brazil\",\"entryId\":\"seniors_team_coed__brazil\"},\"courtNumber\":2,\"courtName\":\"D2\",\"tieId\":\"seniors_team_coed____default__m17\",\"courtLabel\":\"S\u00c3\u00a2n 2 \u00c2\u00b7 D2\",\"matchIndex\":3,\"bracketId\":\"seniors_team_coed____default\",\"scheduledAt\":\"2026-09-03T15:12:00\",\"catego"
+    "entryA": "{\"teamName\": \"Time A\"}",
+    "entryB": "{\"teamName\": \"Time B\"}",
+    "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"15:12\", \"time_brt\": \"05:12\", \"datetime_local\": \"03/09/2026 15:12\", \"datetime_brt\": \"03/09/2026 05:12\", \"category\": \"Cúp Thế Giới - Seniors Team (+50)\", \"raw_category\": \"seniors_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 2 · D2\", \"venue\": \"\"}"
   }
 ]

@@ -1,4 +1,7 @@
 combined_parsed.txt
 generate_*.py
+parse_*.py
+fetch_all.py
+latest_*.html
 *.log
 .DS_Store
