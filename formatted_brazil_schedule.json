@@ -1726,5 +1726,53 @@
     "teamB": "Khushi Desai",
     "court": "Quadra A definir",
     "venue": ""
+  },
+  {
+    "id": "pro_doubles_womens____pro_doubles_womens__m15",
+    "date": "2026-09-01",
+    "time_local": "08:00",
+    "time_brt": "22:00",
+    "datetime_local": "01/09/2026 08:00",
+    "datetime_brt": "31/08/2026 22:00",
+    "category": "PRO - Duplas Femininas",
+    "raw_category": "pro_doubles_womens",
+    "round": "Qualifying",
+    "discipline": "",
+    "teamA": "Marcela Donatoni / Nicole Beidacki",
+    "teamB": "Sindoor Mittal / Khushi Desai",
+    "court": "Quadra A definir",
+    "venue": ""
+  },
+  {
+    "id": "pro_doubles_womens____pro_doubles_womens__m21",
+    "date": "2026-09-01",
+    "time_local": "08:25",
+    "time_brt": "22:25",
+    "datetime_local": "01/09/2026 08:25",
+    "datetime_brt": "31/08/2026 22:25",
+    "category": "PRO - Duplas Femininas",
+    "raw_category": "pro_doubles_womens",
+    "round": "Qualifying",
+    "discipline": "",
+    "teamA": "Valentine Vernaz / Anne Loriot",
+    "teamB": "Isadora Campi / Ana Bergantini Burjaili",
+    "court": "Quadra A definir",
+    "venue": ""
+  },
+  {
+    "id": "pro_doubles_womens____pro_doubles_womens__m7",
+    "date": "2026-09-01",
+    "time_local": "08:25",
+    "time_brt": "22:25",
+    "datetime_local": "01/09/2026 08:25",
+    "datetime_brt": "31/08/2026 22:25",
+    "category": "PRO - Duplas Femininas",
+    "raw_category": "pro_doubles_womens",
+    "round": "Qualifying",
+    "discipline": "",
+    "teamA": "Eviekenna / Ellie Tomkinson",
+    "teamB": "PATRICIA BOSON / Deborahgebara",
+    "court": "Quadra A definir",
+    "venue": ""
   }
 ]
