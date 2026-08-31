@@ -1694,5 +1694,37 @@
     "teamB": "Time B",
     "court": "Quadra 2 · D2",
     "venue": ""
+  },
+  {
+    "id": "pro_singles_womens____pro_singles_womens__m13",
+    "date": "2026-08-31",
+    "time_local": "08:25",
+    "time_brt": "22:25",
+    "datetime_local": "31/08/2026 08:25",
+    "datetime_brt": "30/08/2026 22:25",
+    "category": "PRO - Simples Feminino",
+    "raw_category": "pro_singles_womens",
+    "round": "Qualifying",
+    "discipline": "",
+    "teamA": "Ana Bergantini Burjaili",
+    "teamB": "Miyu Hazawa",
+    "court": "Quadra A definir",
+    "venue": ""
+  },
+  {
+    "id": "pro_singles_womens____pro_singles_womens__m25",
+    "date": "2026-08-31",
+    "time_local": "08:50",
+    "time_brt": "22:50",
+    "datetime_local": "31/08/2026 08:50",
+    "datetime_brt": "30/08/2026 22:50",
+    "category": "PRO - Simples Feminino",
+    "raw_category": "pro_singles_womens",
+    "round": "Qualifying",
+    "discipline": "",
+    "teamA": "Sofia Sigrid Kelbert",
+    "teamB": "Khushi Desai",
+    "court": "Quadra A definir",
+    "venue": ""
   }
 ]

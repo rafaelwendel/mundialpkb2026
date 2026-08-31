@@ -1270,5 +1270,29 @@
     "entryA": "{\"teamName\": \"Time A\"}",
     "entryB": "{\"teamName\": \"Time B\"}",
     "raw": "{\"id\": null, \"date\": \"2026-09-03\", \"time_local\": \"15:12\", \"time_brt\": \"05:12\", \"datetime_local\": \"03/09/2026 15:12\", \"datetime_brt\": \"03/09/2026 05:12\", \"category\": \"Cúp Thế Giới - Seniors Team (+50)\", \"raw_category\": \"seniors_team_coed\", \"round\": \"\", \"discipline\": \"\", \"teamA\": \"Time A\", \"teamB\": \"Time B\", \"court\": \"Quadra 2 · D2\", \"venue\": \"\"}"
+  },
+  {
+    "id": "pro_singles_womens____pro_singles_womens__m13",
+    "scheduledAt": "2026-08-31T08:25:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "pro_singles_womens",
+    "round": "Qualifying",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"Ana Bergantini Burjaili\"}",
+    "entryB": "{\"teamName\": \"Miyu Hazawa\"}",
+    "raw": "{\"id\": \"pro_singles_womens____pro_singles_womens__m13\", \"date\": \"2026-08-31\", \"time_local\": \"08:25\", \"time_brt\": \"22:25\", \"datetime_local\": \"31/08/2026 08:25\", \"datetime_brt\": \"30/08/2026 22:25\", \"category\": \"PRO - Simples Feminino\", \"raw_category\": \"pro_singles_womens\", \"round\": \"Qualifying\", \"discipline\": \"\", \"teamA\": \"Ana Bergantini Burjaili\", \"teamB\": \"Miyu Hazawa\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
+  },
+  {
+    "id": "pro_singles_womens____pro_singles_womens__m25",
+    "scheduledAt": "2026-08-31T08:50:00",
+    "court": "Quadra A definir",
+    "venue": "",
+    "category": "pro_singles_womens",
+    "round": "Qualifying",
+    "discipline": "",
+    "entryA": "{\"teamName\": \"Sofia Sigrid Kelbert\"}",
+    "entryB": "{\"teamName\": \"Khushi Desai\"}",
+    "raw": "{\"id\": \"pro_singles_womens____pro_singles_womens__m25\", \"date\": \"2026-08-31\", \"time_local\": \"08:50\", \"time_brt\": \"22:50\", \"datetime_local\": \"31/08/2026 08:50\", \"datetime_brt\": \"30/08/2026 22:50\", \"category\": \"PRO - Simples Feminino\", \"raw_category\": \"pro_singles_womens\", \"round\": \"Qualifying\", \"discipline\": \"\", \"teamA\": \"Sofia Sigrid Kelbert\", \"teamB\": \"Khushi Desai\", \"court\": \"Quadra A definir\", \"venue\": \"\"}"
   }
 ]

@@ -3,5 +3,12 @@ generate_*.py
 parse_*.py
 fetch_all.py
 latest_*.html
+womens_singles.html
+add_*.py
+check_*.py
+find_*.py
+inspect_*.py
+print_*.py
+__pycache__/
 *.log
 .DS_Store
