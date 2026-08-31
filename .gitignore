@@ -2,6 +2,8 @@ combined_parsed.txt
 generate_*.py
 parse_*.py
 fetch_all.py
+batch_*.py
+junior_htmls/
 latest_*.html
 womens_singles.html
 womens_doubles.html
